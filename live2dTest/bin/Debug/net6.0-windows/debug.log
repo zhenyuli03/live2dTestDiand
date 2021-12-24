@@ -1,0 +1,1107 @@
+[1224/153105.703:ERROR:url_util.cc(33)] Invalid URL: %3127.0.0.1:80808
+[1224/153119.192:ERROR:url_util.cc(33)] Invalid URL: %3127.0.0.1:80808
+[1224/153142.962:INFO:CONSOLE(1)] "Live2D %s 2.1.00_1", source: http://127.0.0.1:8080/lib/live2d_display/live2d.min.js (1)
+[1224/153142.962:INFO:CONSOLE(1)] "profile : Desktop", source: http://127.0.0.1:8080/lib/live2d_display/live2d.min.js (1)
+[1224/153142.962:INFO:CONSOLE(1)] "  [PROFILE_NAME] = Desktop", source: http://127.0.0.1:8080/lib/live2d_display/live2d.min.js (1)
+[1224/153142.962:INFO:CONSOLE(1)] "  [USE_ADJUST_TRANSLATION] = false", source: http://127.0.0.1:8080/lib/live2d_display/live2d.min.js (1)
+[1224/153142.962:INFO:CONSOLE(1)] "  [USE_CACHED_POLYGON_IMAGE] = false", source: http://127.0.0.1:8080/lib/live2d_display/live2d.min.js (1)
+[1224/153142.963:INFO:CONSOLE(1)] "  [EXPAND_W] = 2", source: http://127.0.0.1:8080/lib/live2d_display/live2d.min.js (1)
+[1224/153142.969:INFO:CONSOLE(305)] "%c Pio %c https://paugram.com  color: #fff; margin: 1em 0; padding: 5px 0; background: #673ab7; margin: 1em 0; padding: 5px 0; background: #efefef;", source: http://127.0.0.1:8080/lib/pio/pio.js (305)
+[1224/153142.970:INFO:CONSOLE(110)] "[Pio] Initialized container.", source: http://127.0.0.1:8080/lib/pio/pio_sdk4.js (110)
+[1224/153143.026:INFO:CONSOLE(8)] "
+ %c %c %c PixiJS 5.3.6 - ✰ WebGL 2 ✰  %c  %c  http://www.pixijs.com/  %c %c ♥%c♥%c♥ 
+
+ background: #ff66a5; padding:5px 0; background: #ff66a5; padding:5px 0; color: #ff66a5; background: #030307; padding:5px 0; background: #ff66a5; padding:5px 0; background: #ffc3dc; padding:5px 0; background: #ff66a5; padding:5px 0; color: #ff2424; background: #fff; padding:5px 0; color: #ff2424; background: #fff; padding:5px 0; color: #ff2424; background: #fff; padding:5px 0;", source: http://127.0.0.1:8080/lib/live2d_display/pixi.min.js (8)
+[1224/153143.100:INFO:CONSOLE(31)] "[Pio] Loading new model", source: http://127.0.0.1:8080/lib/pio/pio_sdk4.js (31)
+[1224/153143.120:INFO:CONSOLE(1)] "[CSM][I]Live2D Cubism Core version: 04.01.0000 (67174400)
+", source: http://127.0.0.1:8080/lib/live2d_display/index.min.js (1)
+[1224/153143.120:INFO:CONSOLE(1)] "[CSM][I]CubismFramework.startUp() is complete.
+", source: http://127.0.0.1:8080/lib/live2d_display/index.min.js (1)
+[1224/153143.120:INFO:CONSOLE(1)] "[CSM][I]CubismFramework.initialize() is complete.
+", source: http://127.0.0.1:8080/lib/live2d_display/index.min.js (1)
+[1224/153143.138:INFO:CONSOLE(9)] "Live2D Cubism SDK Core Version 4.1.0", source: http://127.0.0.1:8080/lib/live2d_display/live2dcubismcore.min.js (9)
+[1224/153314.291:INFO:CONSOLE(1)] "Live2D %s 2.1.00_1", source: http://127.0.0.1:8080/lib/live2d_display/live2d.min.js (1)
+[1224/153314.291:INFO:CONSOLE(1)] "profile : Desktop", source: http://127.0.0.1:8080/lib/live2d_display/live2d.min.js (1)
+[1224/153314.291:INFO:CONSOLE(1)] "  [PROFILE_NAME] = Desktop", source: http://127.0.0.1:8080/lib/live2d_display/live2d.min.js (1)
+[1224/153314.291:INFO:CONSOLE(1)] "  [USE_ADJUST_TRANSLATION] = false", source: http://127.0.0.1:8080/lib/live2d_display/live2d.min.js (1)
+[1224/153314.291:INFO:CONSOLE(1)] "  [USE_CACHED_POLYGON_IMAGE] = false", source: http://127.0.0.1:8080/lib/live2d_display/live2d.min.js (1)
+[1224/153314.291:INFO:CONSOLE(1)] "  [EXPAND_W] = 2", source: http://127.0.0.1:8080/lib/live2d_display/live2d.min.js (1)
+[1224/153314.297:INFO:CONSOLE(305)] "%c Pio %c https://paugram.com  color: #fff; margin: 1em 0; padding: 5px 0; background: #673ab7; margin: 1em 0; padding: 5px 0; background: #efefef;", source: http://127.0.0.1:8080/lib/pio/pio.js (305)
+[1224/153314.298:INFO:CONSOLE(110)] "[Pio] Initialized container.", source: http://127.0.0.1:8080/lib/pio/pio_sdk4.js (110)
+[1224/153314.357:INFO:CONSOLE(8)] "
+ %c %c %c PixiJS 5.3.6 - ✰ WebGL 2 ✰  %c  %c  http://www.pixijs.com/  %c %c ♥%c♥%c♥ 
+
+ background: #ff66a5; padding:5px 0; background: #ff66a5; padding:5px 0; color: #ff66a5; background: #030307; padding:5px 0; background: #ff66a5; padding:5px 0; background: #ffc3dc; padding:5px 0; background: #ff66a5; padding:5px 0; color: #ff2424; background: #fff; padding:5px 0; color: #ff2424; background: #fff; padding:5px 0; color: #ff2424; background: #fff; padding:5px 0;", source: http://127.0.0.1:8080/lib/live2d_display/pixi.min.js (8)
+[1224/153318.443:INFO:CONSOLE(31)] "[Pio] Loading new model", source: http://127.0.0.1:8080/lib/pio/pio_sdk4.js (31)
+[1224/153318.451:INFO:CONSOLE(1)] "[CSM][I]Live2D Cubism Core version: 04.01.0000 (67174400)
+", source: http://127.0.0.1:8080/lib/live2d_display/index.min.js (1)
+[1224/153318.451:INFO:CONSOLE(1)] "[CSM][I]CubismFramework.startUp() is complete.
+", source: http://127.0.0.1:8080/lib/live2d_display/index.min.js (1)
+[1224/153318.451:INFO:CONSOLE(1)] "[CSM][I]CubismFramework.initialize() is complete.
+", source: http://127.0.0.1:8080/lib/live2d_display/index.min.js (1)
+[1224/153318.471:INFO:CONSOLE(9)] "Live2D Cubism SDK Core Version 4.1.0", source: http://127.0.0.1:8080/lib/live2d_display/live2dcubismcore.min.js (9)
+[1224/153341.194:INFO:CONSOLE(1)] "Live2D %s 2.1.00_1", source: http://127.0.0.1:8080/lib/live2d_display/live2d.min.js (1)
+[1224/153341.195:INFO:CONSOLE(1)] "profile : Desktop", source: http://127.0.0.1:8080/lib/live2d_display/live2d.min.js (1)
+[1224/153341.195:INFO:CONSOLE(1)] "  [PROFILE_NAME] = Desktop", source: http://127.0.0.1:8080/lib/live2d_display/live2d.min.js (1)
+[1224/153341.195:INFO:CONSOLE(1)] "  [USE_ADJUST_TRANSLATION] = false", source: http://127.0.0.1:8080/lib/live2d_display/live2d.min.js (1)
+[1224/153341.195:INFO:CONSOLE(1)] "  [USE_CACHED_POLYGON_IMAGE] = false", source: http://127.0.0.1:8080/lib/live2d_display/live2d.min.js (1)
+[1224/153341.195:INFO:CONSOLE(1)] "  [EXPAND_W] = 2", source: http://127.0.0.1:8080/lib/live2d_display/live2d.min.js (1)
+[1224/153341.204:INFO:CONSOLE(305)] "%c Pio %c https://paugram.com  color: #fff; margin: 1em 0; padding: 5px 0; background: #673ab7; margin: 1em 0; padding: 5px 0; background: #efefef;", source: http://127.0.0.1:8080/lib/pio/pio.js (305)
+[1224/153341.205:INFO:CONSOLE(110)] "[Pio] Initialized container.", source: http://127.0.0.1:8080/lib/pio/pio_sdk4.js (110)
+[1224/153341.260:INFO:CONSOLE(8)] "
+ %c %c %c PixiJS 5.3.6 - ✰ WebGL 2 ✰  %c  %c  http://www.pixijs.com/  %c %c ♥%c♥%c♥ 
+
+ background: #ff66a5; padding:5px 0; background: #ff66a5; padding:5px 0; color: #ff66a5; background: #030307; padding:5px 0; background: #ff66a5; padding:5px 0; background: #ffc3dc; padding:5px 0; background: #ff66a5; padding:5px 0; color: #ff2424; background: #fff; padding:5px 0; color: #ff2424; background: #fff; padding:5px 0; color: #ff2424; background: #fff; padding:5px 0;", source: http://127.0.0.1:8080/lib/live2d_display/pixi.min.js (8)
+[1224/153341.333:INFO:CONSOLE(31)] "[Pio] Loading new model", source: http://127.0.0.1:8080/lib/pio/pio_sdk4.js (31)
+[1224/153341.342:INFO:CONSOLE(1)] "[CSM][I]Live2D Cubism Core version: 04.01.0000 (67174400)
+", source: http://127.0.0.1:8080/lib/live2d_display/index.min.js (1)
+[1224/153341.342:INFO:CONSOLE(1)] "[CSM][I]CubismFramework.startUp() is complete.
+", source: http://127.0.0.1:8080/lib/live2d_display/index.min.js (1)
+[1224/153341.342:INFO:CONSOLE(1)] "[CSM][I]CubismFramework.initialize() is complete.
+", source: http://127.0.0.1:8080/lib/live2d_display/index.min.js (1)
+[1224/153341.400:INFO:CONSOLE(9)] "Live2D Cubism SDK Core Version 4.1.0", source: http://127.0.0.1:8080/lib/live2d_display/live2dcubismcore.min.js (9)
+[1224/153430.609:INFO:CONSOLE(1)] "Live2D %s 2.1.00_1", source: http://127.0.0.1:8080/lib/live2d_display/live2d.min.js (1)
+[1224/153430.609:INFO:CONSOLE(1)] "profile : Desktop", source: http://127.0.0.1:8080/lib/live2d_display/live2d.min.js (1)
+[1224/153430.609:INFO:CONSOLE(1)] "  [PROFILE_NAME] = Desktop", source: http://127.0.0.1:8080/lib/live2d_display/live2d.min.js (1)
+[1224/153430.609:INFO:CONSOLE(1)] "  [USE_ADJUST_TRANSLATION] = false", source: http://127.0.0.1:8080/lib/live2d_display/live2d.min.js (1)
+[1224/153430.609:INFO:CONSOLE(1)] "  [USE_CACHED_POLYGON_IMAGE] = false", source: http://127.0.0.1:8080/lib/live2d_display/live2d.min.js (1)
+[1224/153430.609:INFO:CONSOLE(1)] "  [EXPAND_W] = 2", source: http://127.0.0.1:8080/lib/live2d_display/live2d.min.js (1)
+[1224/153430.619:INFO:CONSOLE(305)] "%c Pio %c https://paugram.com  color: #fff; margin: 1em 0; padding: 5px 0; background: #673ab7; margin: 1em 0; padding: 5px 0; background: #efefef;", source: http://127.0.0.1:8080/lib/pio/pio.js (305)
+[1224/153430.620:INFO:CONSOLE(110)] "[Pio] Initialized container.", source: http://127.0.0.1:8080/lib/pio/pio_sdk4.js (110)
+[1224/153430.681:INFO:CONSOLE(8)] "
+ %c %c %c PixiJS 5.3.6 - ✰ WebGL 2 ✰  %c  %c  http://www.pixijs.com/  %c %c ♥%c♥%c♥ 
+
+ background: #ff66a5; padding:5px 0; background: #ff66a5; padding:5px 0; color: #ff66a5; background: #030307; padding:5px 0; background: #ff66a5; padding:5px 0; background: #ffc3dc; padding:5px 0; background: #ff66a5; padding:5px 0; color: #ff2424; background: #fff; padding:5px 0; color: #ff2424; background: #fff; padding:5px 0; color: #ff2424; background: #fff; padding:5px 0;", source: http://127.0.0.1:8080/lib/live2d_display/pixi.min.js (8)
+[1224/153430.745:INFO:CONSOLE(31)] "[Pio] Loading new model", source: http://127.0.0.1:8080/lib/pio/pio_sdk4.js (31)
+[1224/153430.753:INFO:CONSOLE(1)] "[CSM][I]Live2D Cubism Core version: 04.01.0000 (67174400)
+", source: http://127.0.0.1:8080/lib/live2d_display/index.min.js (1)
+[1224/153430.753:INFO:CONSOLE(1)] "[CSM][I]CubismFramework.startUp() is complete.
+", source: http://127.0.0.1:8080/lib/live2d_display/index.min.js (1)
+[1224/153430.753:INFO:CONSOLE(1)] "[CSM][I]CubismFramework.initialize() is complete.
+", source: http://127.0.0.1:8080/lib/live2d_display/index.min.js (1)
+[1224/153430.806:INFO:CONSOLE(9)] "Live2D Cubism SDK Core Version 4.1.0", source: http://127.0.0.1:8080/lib/live2d_display/live2dcubismcore.min.js (9)
+[1224/153516.640:INFO:CONSOLE(1)] "Live2D %s 2.1.00_1", source: http://127.0.0.1:8080/lib/live2d_display/live2d.min.js (1)
+[1224/153516.640:INFO:CONSOLE(1)] "profile : Desktop", source: http://127.0.0.1:8080/lib/live2d_display/live2d.min.js (1)
+[1224/153516.640:INFO:CONSOLE(1)] "  [PROFILE_NAME] = Desktop", source: http://127.0.0.1:8080/lib/live2d_display/live2d.min.js (1)
+[1224/153516.640:INFO:CONSOLE(1)] "  [USE_ADJUST_TRANSLATION] = false", source: http://127.0.0.1:8080/lib/live2d_display/live2d.min.js (1)
+[1224/153516.640:INFO:CONSOLE(1)] "  [USE_CACHED_POLYGON_IMAGE] = false", source: http://127.0.0.1:8080/lib/live2d_display/live2d.min.js (1)
+[1224/153516.640:INFO:CONSOLE(1)] "  [EXPAND_W] = 2", source: http://127.0.0.1:8080/lib/live2d_display/live2d.min.js (1)
+[1224/153516.646:INFO:CONSOLE(305)] "%c Pio %c https://paugram.com  color: #fff; margin: 1em 0; padding: 5px 0; background: #673ab7; margin: 1em 0; padding: 5px 0; background: #efefef;", source: http://127.0.0.1:8080/lib/pio/pio.js (305)
+[1224/153516.647:INFO:CONSOLE(110)] "[Pio] Initialized container.", source: http://127.0.0.1:8080/lib/pio/pio_sdk4.js (110)
+[1224/153516.697:INFO:CONSOLE(8)] "
+ %c %c %c PixiJS 5.3.6 - ✰ WebGL 2 ✰  %c  %c  http://www.pixijs.com/  %c %c ♥%c♥%c♥ 
+
+ background: #ff66a5; padding:5px 0; background: #ff66a5; padding:5px 0; color: #ff66a5; background: #030307; padding:5px 0; background: #ff66a5; padding:5px 0; background: #ffc3dc; padding:5px 0; background: #ff66a5; padding:5px 0; color: #ff2424; background: #fff; padding:5px 0; color: #ff2424; background: #fff; padding:5px 0; color: #ff2424; background: #fff; padding:5px 0;", source: http://127.0.0.1:8080/lib/live2d_display/pixi.min.js (8)
+[1224/153516.778:INFO:CONSOLE(31)] "[Pio] Loading new model", source: http://127.0.0.1:8080/lib/pio/pio_sdk4.js (31)
+[1224/153516.786:INFO:CONSOLE(1)] "[CSM][I]Live2D Cubism Core version: 04.01.0000 (67174400)
+", source: http://127.0.0.1:8080/lib/live2d_display/index.min.js (1)
+[1224/153516.787:INFO:CONSOLE(1)] "[CSM][I]CubismFramework.startUp() is complete.
+", source: http://127.0.0.1:8080/lib/live2d_display/index.min.js (1)
+[1224/153516.787:INFO:CONSOLE(1)] "[CSM][I]CubismFramework.initialize() is complete.
+", source: http://127.0.0.1:8080/lib/live2d_display/index.min.js (1)
+[1224/153516.813:INFO:CONSOLE(9)] "Live2D Cubism SDK Core Version 4.1.0", source: http://127.0.0.1:8080/lib/live2d_display/live2dcubismcore.min.js (9)
+[1224/153624.114:INFO:CONSOLE(1)] "Live2D %s 2.1.00_1", source: http://127.0.0.1:8080/lib/live2d_display/live2d.min.js (1)
+[1224/153624.114:INFO:CONSOLE(1)] "profile : Desktop", source: http://127.0.0.1:8080/lib/live2d_display/live2d.min.js (1)
+[1224/153624.114:INFO:CONSOLE(1)] "  [PROFILE_NAME] = Desktop", source: http://127.0.0.1:8080/lib/live2d_display/live2d.min.js (1)
+[1224/153624.115:INFO:CONSOLE(1)] "  [USE_ADJUST_TRANSLATION] = false", source: http://127.0.0.1:8080/lib/live2d_display/live2d.min.js (1)
+[1224/153624.115:INFO:CONSOLE(1)] "  [USE_CACHED_POLYGON_IMAGE] = false", source: http://127.0.0.1:8080/lib/live2d_display/live2d.min.js (1)
+[1224/153624.115:INFO:CONSOLE(1)] "  [EXPAND_W] = 2", source: http://127.0.0.1:8080/lib/live2d_display/live2d.min.js (1)
+[1224/153624.123:INFO:CONSOLE(305)] "%c Pio %c https://paugram.com  color: #fff; margin: 1em 0; padding: 5px 0; background: #673ab7; margin: 1em 0; padding: 5px 0; background: #efefef;", source: http://127.0.0.1:8080/lib/pio/pio.js (305)
+[1224/153624.124:INFO:CONSOLE(110)] "[Pio] Initialized container.", source: http://127.0.0.1:8080/lib/pio/pio_sdk4.js (110)
+[1224/153624.182:INFO:CONSOLE(8)] "
+ %c %c %c PixiJS 5.3.6 - ✰ WebGL 2 ✰  %c  %c  http://www.pixijs.com/  %c %c ♥%c♥%c♥ 
+
+ background: #ff66a5; padding:5px 0; background: #ff66a5; padding:5px 0; color: #ff66a5; background: #030307; padding:5px 0; background: #ff66a5; padding:5px 0; background: #ffc3dc; padding:5px 0; background: #ff66a5; padding:5px 0; color: #ff2424; background: #fff; padding:5px 0; color: #ff2424; background: #fff; padding:5px 0; color: #ff2424; background: #fff; padding:5px 0;", source: http://127.0.0.1:8080/lib/live2d_display/pixi.min.js (8)
+[1224/153626.271:INFO:CONSOLE(31)] "[Pio] Loading new model", source: http://127.0.0.1:8080/lib/pio/pio_sdk4.js (31)
+[1224/153626.287:INFO:CONSOLE(1)] "[CSM][I]Live2D Cubism Core version: 04.01.0000 (67174400)
+", source: http://127.0.0.1:8080/lib/live2d_display/index.min.js (1)
+[1224/153626.287:INFO:CONSOLE(1)] "[CSM][I]CubismFramework.startUp() is complete.
+", source: http://127.0.0.1:8080/lib/live2d_display/index.min.js (1)
+[1224/153626.287:INFO:CONSOLE(1)] "[CSM][I]CubismFramework.initialize() is complete.
+", source: http://127.0.0.1:8080/lib/live2d_display/index.min.js (1)
+[1224/153626.322:INFO:CONSOLE(9)] "Live2D Cubism SDK Core Version 4.1.0", source: http://127.0.0.1:8080/lib/live2d_display/live2dcubismcore.min.js (9)
+[1224/153646.054:INFO:CONSOLE(47)] "12-24", source: https://www.asoulworld.com/js/init-data.js (47)
+[1224/153646.055:INFO:CONSOLE(47)] "12-24", source: https://www.asoulworld.com/js/init-data.js (47)
+[1224/153646.055:INFO:CONSOLE(47)] "12-24", source: https://www.asoulworld.com/js/init-data.js (47)
+[1224/153646.056:INFO:CONSOLE(47)] "12-24", source: https://www.asoulworld.com/js/init-data.js (47)
+[1224/153646.056:INFO:CONSOLE(47)] "12-24", source: https://www.asoulworld.com/js/init-data.js (47)
+[1224/153646.056:INFO:CONSOLE(47)] "12-24", source: https://www.asoulworld.com/js/init-data.js (47)
+[1224/153646.057:INFO:CONSOLE(178)] "clock test", source: https://www.asoulworld.com/js/init-data.js (178)
+[1224/153653.834:WARNING:spdy_session.cc(3501)] Received HEADERS for invalid stream 17
+[1224/153656.064:INFO:CONSOLE(1)] "[object Object]", source: https://asoul.cloud/public/js/app.daad19d5.js (1)
+[1224/153656.285:INFO:CONSOLE(1)] "Service worker has been registered.", source: https://asoul.cloud/public/js/app.daad19d5.js (1)
+[1224/153656.286:INFO:CONSOLE(1)] "New content is downloading.", source: https://asoul.cloud/public/js/app.daad19d5.js (1)
+[1224/153749.772:INFO:CONSOLE(1)] "Live2D %s 2.1.00_1", source: http://127.0.0.1:8080/lib/live2d_display/live2d.min.js (1)
+[1224/153749.772:INFO:CONSOLE(1)] "profile : Desktop", source: http://127.0.0.1:8080/lib/live2d_display/live2d.min.js (1)
+[1224/153749.772:INFO:CONSOLE(1)] "  [PROFILE_NAME] = Desktop", source: http://127.0.0.1:8080/lib/live2d_display/live2d.min.js (1)
+[1224/153749.772:INFO:CONSOLE(1)] "  [USE_ADJUST_TRANSLATION] = false", source: http://127.0.0.1:8080/lib/live2d_display/live2d.min.js (1)
+[1224/153749.772:INFO:CONSOLE(1)] "  [USE_CACHED_POLYGON_IMAGE] = false", source: http://127.0.0.1:8080/lib/live2d_display/live2d.min.js (1)
+[1224/153749.773:INFO:CONSOLE(1)] "  [EXPAND_W] = 2", source: http://127.0.0.1:8080/lib/live2d_display/live2d.min.js (1)
+[1224/153749.781:INFO:CONSOLE(305)] "%c Pio %c https://paugram.com  color: #fff; margin: 1em 0; padding: 5px 0; background: #673ab7; margin: 1em 0; padding: 5px 0; background: #efefef;", source: http://127.0.0.1:8080/lib/pio/pio.js (305)
+[1224/153749.783:INFO:CONSOLE(110)] "[Pio] Initialized container.", source: http://127.0.0.1:8080/lib/pio/pio_sdk4.js (110)
+[1224/153749.842:INFO:CONSOLE(8)] "
+ %c %c %c PixiJS 5.3.6 - ✰ WebGL 2 ✰  %c  %c  http://www.pixijs.com/  %c %c ♥%c♥%c♥ 
+
+ background: #ff66a5; padding:5px 0; background: #ff66a5; padding:5px 0; color: #ff66a5; background: #030307; padding:5px 0; background: #ff66a5; padding:5px 0; background: #ffc3dc; padding:5px 0; background: #ff66a5; padding:5px 0; color: #ff2424; background: #fff; padding:5px 0; color: #ff2424; background: #fff; padding:5px 0; color: #ff2424; background: #fff; padding:5px 0;", source: http://127.0.0.1:8080/lib/live2d_display/pixi.min.js (8)
+[1224/153749.904:INFO:CONSOLE(31)] "[Pio] Loading new model", source: http://127.0.0.1:8080/lib/pio/pio_sdk4.js (31)
+[1224/153749.924:INFO:CONSOLE(1)] "[CSM][I]Live2D Cubism Core version: 04.01.0000 (67174400)
+", source: http://127.0.0.1:8080/lib/live2d_display/index.min.js (1)
+[1224/153749.924:INFO:CONSOLE(1)] "[CSM][I]CubismFramework.startUp() is complete.
+", source: http://127.0.0.1:8080/lib/live2d_display/index.min.js (1)
+[1224/153749.924:INFO:CONSOLE(1)] "[CSM][I]CubismFramework.initialize() is complete.
+", source: http://127.0.0.1:8080/lib/live2d_display/index.min.js (1)
+[1224/153749.940:INFO:CONSOLE(9)] "Live2D Cubism SDK Core Version 4.1.0", source: http://127.0.0.1:8080/lib/live2d_display/live2dcubismcore.min.js (9)
+[1224/153838.629:INFO:CONSOLE(1)] "Live2D %s 2.1.00_1", source: http://127.0.0.1:8080/lib/live2d_display/live2d.min.js (1)
+[1224/153838.629:INFO:CONSOLE(1)] "profile : Desktop", source: http://127.0.0.1:8080/lib/live2d_display/live2d.min.js (1)
+[1224/153838.629:INFO:CONSOLE(1)] "  [PROFILE_NAME] = Desktop", source: http://127.0.0.1:8080/lib/live2d_display/live2d.min.js (1)
+[1224/153838.629:INFO:CONSOLE(1)] "  [USE_ADJUST_TRANSLATION] = false", source: http://127.0.0.1:8080/lib/live2d_display/live2d.min.js (1)
+[1224/153838.629:INFO:CONSOLE(1)] "  [USE_CACHED_POLYGON_IMAGE] = false", source: http://127.0.0.1:8080/lib/live2d_display/live2d.min.js (1)
+[1224/153838.629:INFO:CONSOLE(1)] "  [EXPAND_W] = 2", source: http://127.0.0.1:8080/lib/live2d_display/live2d.min.js (1)
+[1224/153838.638:INFO:CONSOLE(305)] "%c Pio %c https://paugram.com  color: #fff; margin: 1em 0; padding: 5px 0; background: #673ab7; margin: 1em 0; padding: 5px 0; background: #efefef;", source: http://127.0.0.1:8080/lib/pio/pio.js (305)
+[1224/153838.639:INFO:CONSOLE(110)] "[Pio] Initialized container.", source: http://127.0.0.1:8080/lib/pio/pio_sdk4.js (110)
+[1224/153838.708:INFO:CONSOLE(8)] "
+ %c %c %c PixiJS 5.3.6 - ✰ WebGL 2 ✰  %c  %c  http://www.pixijs.com/  %c %c ♥%c♥%c♥ 
+
+ background: #ff66a5; padding:5px 0; background: #ff66a5; padding:5px 0; color: #ff66a5; background: #030307; padding:5px 0; background: #ff66a5; padding:5px 0; background: #ffc3dc; padding:5px 0; background: #ff66a5; padding:5px 0; color: #ff2424; background: #fff; padding:5px 0; color: #ff2424; background: #fff; padding:5px 0; color: #ff2424; background: #fff; padding:5px 0;", source: http://127.0.0.1:8080/lib/live2d_display/pixi.min.js (8)
+[1224/153838.794:INFO:CONSOLE(31)] "[Pio] Loading new model", source: http://127.0.0.1:8080/lib/pio/pio_sdk4.js (31)
+[1224/153838.805:INFO:CONSOLE(1)] "[CSM][I]Live2D Cubism Core version: 04.01.0000 (67174400)
+", source: http://127.0.0.1:8080/lib/live2d_display/index.min.js (1)
+[1224/153838.806:INFO:CONSOLE(1)] "[CSM][I]CubismFramework.startUp() is complete.
+", source: http://127.0.0.1:8080/lib/live2d_display/index.min.js (1)
+[1224/153838.806:INFO:CONSOLE(1)] "[CSM][I]CubismFramework.initialize() is complete.
+", source: http://127.0.0.1:8080/lib/live2d_display/index.min.js (1)
+[1224/153838.822:INFO:CONSOLE(9)] "Live2D Cubism SDK Core Version 4.1.0", source: http://127.0.0.1:8080/lib/live2d_display/live2dcubismcore.min.js (9)
+[1224/153959.260:INFO:CONSOLE(1)] "Live2D %s 2.1.00_1", source: http://127.0.0.1:8080/lib/live2d_display/live2d.min.js (1)
+[1224/153959.261:INFO:CONSOLE(1)] "profile : Desktop", source: http://127.0.0.1:8080/lib/live2d_display/live2d.min.js (1)
+[1224/153959.261:INFO:CONSOLE(1)] "  [PROFILE_NAME] = Desktop", source: http://127.0.0.1:8080/lib/live2d_display/live2d.min.js (1)
+[1224/153959.261:INFO:CONSOLE(1)] "  [USE_ADJUST_TRANSLATION] = false", source: http://127.0.0.1:8080/lib/live2d_display/live2d.min.js (1)
+[1224/153959.261:INFO:CONSOLE(1)] "  [USE_CACHED_POLYGON_IMAGE] = false", source: http://127.0.0.1:8080/lib/live2d_display/live2d.min.js (1)
+[1224/153959.261:INFO:CONSOLE(1)] "  [EXPAND_W] = 2", source: http://127.0.0.1:8080/lib/live2d_display/live2d.min.js (1)
+[1224/153959.270:INFO:CONSOLE(305)] "%c Pio %c https://paugram.com  color: #fff; margin: 1em 0; padding: 5px 0; background: #673ab7; margin: 1em 0; padding: 5px 0; background: #efefef;", source: http://127.0.0.1:8080/lib/pio/pio.js (305)
+[1224/153959.271:INFO:CONSOLE(110)] "[Pio] Initialized container.", source: http://127.0.0.1:8080/lib/pio/pio_sdk4.js (110)
+[1224/153959.335:INFO:CONSOLE(8)] "
+ %c %c %c PixiJS 5.3.6 - ✰ WebGL 2 ✰  %c  %c  http://www.pixijs.com/  %c %c ♥%c♥%c♥ 
+
+ background: #ff66a5; padding:5px 0; background: #ff66a5; padding:5px 0; color: #ff66a5; background: #030307; padding:5px 0; background: #ff66a5; padding:5px 0; background: #ffc3dc; padding:5px 0; background: #ff66a5; padding:5px 0; color: #ff2424; background: #fff; padding:5px 0; color: #ff2424; background: #fff; padding:5px 0; color: #ff2424; background: #fff; padding:5px 0;", source: http://127.0.0.1:8080/lib/live2d_display/pixi.min.js (8)
+[1224/153959.403:INFO:CONSOLE(31)] "[Pio] Loading new model", source: http://127.0.0.1:8080/lib/pio/pio_sdk4.js (31)
+[1224/153959.410:INFO:CONSOLE(1)] "[CSM][I]Live2D Cubism Core version: 04.01.0000 (67174400)
+", source: http://127.0.0.1:8080/lib/live2d_display/index.min.js (1)
+[1224/153959.410:INFO:CONSOLE(1)] "[CSM][I]CubismFramework.startUp() is complete.
+", source: http://127.0.0.1:8080/lib/live2d_display/index.min.js (1)
+[1224/153959.410:INFO:CONSOLE(1)] "[CSM][I]CubismFramework.initialize() is complete.
+", source: http://127.0.0.1:8080/lib/live2d_display/index.min.js (1)
+[1224/153959.446:INFO:CONSOLE(9)] "Live2D Cubism SDK Core Version 4.1.0", source: http://127.0.0.1:8080/lib/live2d_display/live2dcubismcore.min.js (9)
+[1224/154041.238:INFO:CONSOLE(1)] "Live2D %s 2.1.00_1", source: http://127.0.0.1:8080/lib/live2d_display/live2d.min.js (1)
+[1224/154041.238:INFO:CONSOLE(1)] "profile : Desktop", source: http://127.0.0.1:8080/lib/live2d_display/live2d.min.js (1)
+[1224/154041.238:INFO:CONSOLE(1)] "  [PROFILE_NAME] = Desktop", source: http://127.0.0.1:8080/lib/live2d_display/live2d.min.js (1)
+[1224/154041.238:INFO:CONSOLE(1)] "  [USE_ADJUST_TRANSLATION] = false", source: http://127.0.0.1:8080/lib/live2d_display/live2d.min.js (1)
+[1224/154041.239:INFO:CONSOLE(1)] "  [USE_CACHED_POLYGON_IMAGE] = false", source: http://127.0.0.1:8080/lib/live2d_display/live2d.min.js (1)
+[1224/154041.239:INFO:CONSOLE(1)] "  [EXPAND_W] = 2", source: http://127.0.0.1:8080/lib/live2d_display/live2d.min.js (1)
+[1224/154041.247:INFO:CONSOLE(305)] "%c Pio %c https://paugram.com  color: #fff; margin: 1em 0; padding: 5px 0; background: #673ab7; margin: 1em 0; padding: 5px 0; background: #efefef;", source: http://127.0.0.1:8080/lib/pio/pio.js (305)
+[1224/154041.247:INFO:CONSOLE(110)] "[Pio] Initialized container.", source: http://127.0.0.1:8080/lib/pio/pio_sdk4.js (110)
+[1224/154041.300:INFO:CONSOLE(8)] "
+ %c %c %c PixiJS 5.3.6 - ✰ WebGL 2 ✰  %c  %c  http://www.pixijs.com/  %c %c ♥%c♥%c♥ 
+
+ background: #ff66a5; padding:5px 0; background: #ff66a5; padding:5px 0; color: #ff66a5; background: #030307; padding:5px 0; background: #ff66a5; padding:5px 0; background: #ffc3dc; padding:5px 0; background: #ff66a5; padding:5px 0; color: #ff2424; background: #fff; padding:5px 0; color: #ff2424; background: #fff; padding:5px 0; color: #ff2424; background: #fff; padding:5px 0;", source: http://127.0.0.1:8080/lib/live2d_display/pixi.min.js (8)
+[1224/154041.370:INFO:CONSOLE(31)] "[Pio] Loading new model", source: http://127.0.0.1:8080/lib/pio/pio_sdk4.js (31)
+[1224/154041.430:INFO:CONSOLE(1)] "[CSM][I]Live2D Cubism Core version: 04.01.0000 (67174400)
+", source: http://127.0.0.1:8080/lib/live2d_display/index.min.js (1)
+[1224/154041.431:INFO:CONSOLE(1)] "[CSM][I]CubismFramework.startUp() is complete.
+", source: http://127.0.0.1:8080/lib/live2d_display/index.min.js (1)
+[1224/154041.431:INFO:CONSOLE(1)] "[CSM][I]CubismFramework.initialize() is complete.
+", source: http://127.0.0.1:8080/lib/live2d_display/index.min.js (1)
+[1224/154041.451:INFO:CONSOLE(9)] "Live2D Cubism SDK Core Version 4.1.0", source: http://127.0.0.1:8080/lib/live2d_display/live2dcubismcore.min.js (9)
+[1224/154123.986:INFO:CONSOLE(1)] "Live2D %s 2.1.00_1", source: http://127.0.0.1:8080/lib/live2d_display/live2d.min.js (1)
+[1224/154123.986:INFO:CONSOLE(1)] "profile : Desktop", source: http://127.0.0.1:8080/lib/live2d_display/live2d.min.js (1)
+[1224/154123.986:INFO:CONSOLE(1)] "  [PROFILE_NAME] = Desktop", source: http://127.0.0.1:8080/lib/live2d_display/live2d.min.js (1)
+[1224/154123.986:INFO:CONSOLE(1)] "  [USE_ADJUST_TRANSLATION] = false", source: http://127.0.0.1:8080/lib/live2d_display/live2d.min.js (1)
+[1224/154123.986:INFO:CONSOLE(1)] "  [USE_CACHED_POLYGON_IMAGE] = false", source: http://127.0.0.1:8080/lib/live2d_display/live2d.min.js (1)
+[1224/154123.986:INFO:CONSOLE(1)] "  [EXPAND_W] = 2", source: http://127.0.0.1:8080/lib/live2d_display/live2d.min.js (1)
+[1224/154123.992:INFO:CONSOLE(305)] "%c Pio %c https://paugram.com  color: #fff; margin: 1em 0; padding: 5px 0; background: #673ab7; margin: 1em 0; padding: 5px 0; background: #efefef;", source: http://127.0.0.1:8080/lib/pio/pio.js (305)
+[1224/154123.992:INFO:CONSOLE(110)] "[Pio] Initialized container.", source: http://127.0.0.1:8080/lib/pio/pio_sdk4.js (110)
+[1224/154124.046:INFO:CONSOLE(8)] "
+ %c %c %c PixiJS 5.3.6 - ✰ WebGL 2 ✰  %c  %c  http://www.pixijs.com/  %c %c ♥%c♥%c♥ 
+
+ background: #ff66a5; padding:5px 0; background: #ff66a5; padding:5px 0; color: #ff66a5; background: #030307; padding:5px 0; background: #ff66a5; padding:5px 0; background: #ffc3dc; padding:5px 0; background: #ff66a5; padding:5px 0; color: #ff2424; background: #fff; padding:5px 0; color: #ff2424; background: #fff; padding:5px 0; color: #ff2424; background: #fff; padding:5px 0;", source: http://127.0.0.1:8080/lib/live2d_display/pixi.min.js (8)
+[1224/154124.530:INFO:CONSOLE(31)] "[Pio] Loading new model", source: http://127.0.0.1:8080/lib/pio/pio_sdk4.js (31)
+[1224/154124.542:INFO:CONSOLE(1)] "[CSM][I]Live2D Cubism Core version: 04.01.0000 (67174400)
+", source: http://127.0.0.1:8080/lib/live2d_display/index.min.js (1)
+[1224/154124.542:INFO:CONSOLE(1)] "[CSM][I]CubismFramework.startUp() is complete.
+", source: http://127.0.0.1:8080/lib/live2d_display/index.min.js (1)
+[1224/154124.543:INFO:CONSOLE(1)] "[CSM][I]CubismFramework.initialize() is complete.
+", source: http://127.0.0.1:8080/lib/live2d_display/index.min.js (1)
+[1224/154124.601:INFO:CONSOLE(9)] "Live2D Cubism SDK Core Version 4.1.0", source: http://127.0.0.1:8080/lib/live2d_display/live2dcubismcore.min.js (9)
+[1224/154156.809:ERROR:network_service_instance_impl.cc(916)] Network service crashed, restarting service.
+[1224/154234.787:INFO:CONSOLE(1)] "Live2D %s 2.1.00_1", source: http://127.0.0.1:8080/lib/live2d_display/live2d.min.js (1)
+[1224/154234.787:INFO:CONSOLE(1)] "profile : Desktop", source: http://127.0.0.1:8080/lib/live2d_display/live2d.min.js (1)
+[1224/154234.787:INFO:CONSOLE(1)] "  [PROFILE_NAME] = Desktop", source: http://127.0.0.1:8080/lib/live2d_display/live2d.min.js (1)
+[1224/154234.787:INFO:CONSOLE(1)] "  [USE_ADJUST_TRANSLATION] = false", source: http://127.0.0.1:8080/lib/live2d_display/live2d.min.js (1)
+[1224/154234.787:INFO:CONSOLE(1)] "  [USE_CACHED_POLYGON_IMAGE] = false", source: http://127.0.0.1:8080/lib/live2d_display/live2d.min.js (1)
+[1224/154234.787:INFO:CONSOLE(1)] "  [EXPAND_W] = 2", source: http://127.0.0.1:8080/lib/live2d_display/live2d.min.js (1)
+[1224/154234.793:INFO:CONSOLE(305)] "%c Pio %c https://paugram.com  color: #fff; margin: 1em 0; padding: 5px 0; background: #673ab7; margin: 1em 0; padding: 5px 0; background: #efefef;", source: http://127.0.0.1:8080/lib/pio/pio.js (305)
+[1224/154234.793:INFO:CONSOLE(110)] "[Pio] Initialized container.", source: http://127.0.0.1:8080/lib/pio/pio_sdk4.js (110)
+[1224/154234.839:INFO:CONSOLE(8)] "
+ %c %c %c PixiJS 5.3.6 - ✰ WebGL 2 ✰  %c  %c  http://www.pixijs.com/  %c %c ♥%c♥%c♥ 
+
+ background: #ff66a5; padding:5px 0; background: #ff66a5; padding:5px 0; color: #ff66a5; background: #030307; padding:5px 0; background: #ff66a5; padding:5px 0; background: #ffc3dc; padding:5px 0; background: #ff66a5; padding:5px 0; color: #ff2424; background: #fff; padding:5px 0; color: #ff2424; background: #fff; padding:5px 0; color: #ff2424; background: #fff; padding:5px 0;", source: http://127.0.0.1:8080/lib/live2d_display/pixi.min.js (8)
+[1224/154234.911:INFO:CONSOLE(31)] "[Pio] Loading new model", source: http://127.0.0.1:8080/lib/pio/pio_sdk4.js (31)
+[1224/154234.923:INFO:CONSOLE(1)] "[CSM][I]Live2D Cubism Core version: 04.01.0000 (67174400)
+", source: http://127.0.0.1:8080/lib/live2d_display/index.min.js (1)
+[1224/154234.923:INFO:CONSOLE(1)] "[CSM][I]CubismFramework.startUp() is complete.
+", source: http://127.0.0.1:8080/lib/live2d_display/index.min.js (1)
+[1224/154234.923:INFO:CONSOLE(1)] "[CSM][I]CubismFramework.initialize() is complete.
+", source: http://127.0.0.1:8080/lib/live2d_display/index.min.js (1)
+[1224/154234.948:INFO:CONSOLE(9)] "Live2D Cubism SDK Core Version 4.1.0", source: http://127.0.0.1:8080/lib/live2d_display/live2dcubismcore.min.js (9)
+[1224/154238.220:INFO:CONSOLE(1)] "Live2D %s 2.1.00_1", source: http://127.0.0.1:8080/lib/live2d_display/live2d.min.js (1)
+[1224/154238.220:INFO:CONSOLE(1)] "profile : Desktop", source: http://127.0.0.1:8080/lib/live2d_display/live2d.min.js (1)
+[1224/154238.220:INFO:CONSOLE(1)] "  [PROFILE_NAME] = Desktop", source: http://127.0.0.1:8080/lib/live2d_display/live2d.min.js (1)
+[1224/154238.220:INFO:CONSOLE(1)] "  [USE_ADJUST_TRANSLATION] = false", source: http://127.0.0.1:8080/lib/live2d_display/live2d.min.js (1)
+[1224/154238.220:INFO:CONSOLE(1)] "  [USE_CACHED_POLYGON_IMAGE] = false", source: http://127.0.0.1:8080/lib/live2d_display/live2d.min.js (1)
+[1224/154238.220:INFO:CONSOLE(1)] "  [EXPAND_W] = 2", source: http://127.0.0.1:8080/lib/live2d_display/live2d.min.js (1)
+[1224/154238.225:INFO:CONSOLE(305)] "%c Pio %c https://paugram.com  color: #fff; margin: 1em 0; padding: 5px 0; background: #673ab7; margin: 1em 0; padding: 5px 0; background: #efefef;", source: http://127.0.0.1:8080/lib/pio/pio.js (305)
+[1224/154238.226:INFO:CONSOLE(110)] "[Pio] Initialized container.", source: http://127.0.0.1:8080/lib/pio/pio_sdk4.js (110)
+[1224/154238.277:INFO:CONSOLE(8)] "
+ %c %c %c PixiJS 5.3.6 - ✰ WebGL 2 ✰  %c  %c  http://www.pixijs.com/  %c %c ♥%c♥%c♥ 
+
+ background: #ff66a5; padding:5px 0; background: #ff66a5; padding:5px 0; color: #ff66a5; background: #030307; padding:5px 0; background: #ff66a5; padding:5px 0; background: #ffc3dc; padding:5px 0; background: #ff66a5; padding:5px 0; color: #ff2424; background: #fff; padding:5px 0; color: #ff2424; background: #fff; padding:5px 0; color: #ff2424; background: #fff; padding:5px 0;", source: http://127.0.0.1:8080/lib/live2d_display/pixi.min.js (8)
+[1224/154238.712:INFO:CONSOLE(31)] "[Pio] Loading new model", source: http://127.0.0.1:8080/lib/pio/pio_sdk4.js (31)
+[1224/154238.723:INFO:CONSOLE(1)] "[CSM][I]Live2D Cubism Core version: 04.01.0000 (67174400)
+", source: http://127.0.0.1:8080/lib/live2d_display/index.min.js (1)
+[1224/154238.723:INFO:CONSOLE(1)] "[CSM][I]CubismFramework.startUp() is complete.
+", source: http://127.0.0.1:8080/lib/live2d_display/index.min.js (1)
+[1224/154238.723:INFO:CONSOLE(1)] "[CSM][I]CubismFramework.initialize() is complete.
+", source: http://127.0.0.1:8080/lib/live2d_display/index.min.js (1)
+[1224/154238.760:INFO:CONSOLE(9)] "Live2D Cubism SDK Core Version 4.1.0", source: http://127.0.0.1:8080/lib/live2d_display/live2dcubismcore.min.js (9)
+[1224/154254.415:WARNING:spdy_session.cc(3501)] Received HEADERS for invalid stream 17
+[1224/154558.571:INFO:CONSOLE(1)] "Live2D %s 2.1.00_1", source: http://127.0.0.1:8080/lib/live2d_display/live2d.min.js (1)
+[1224/154558.571:INFO:CONSOLE(1)] "profile : Desktop", source: http://127.0.0.1:8080/lib/live2d_display/live2d.min.js (1)
+[1224/154558.571:INFO:CONSOLE(1)] "  [PROFILE_NAME] = Desktop", source: http://127.0.0.1:8080/lib/live2d_display/live2d.min.js (1)
+[1224/154558.571:INFO:CONSOLE(1)] "  [USE_ADJUST_TRANSLATION] = false", source: http://127.0.0.1:8080/lib/live2d_display/live2d.min.js (1)
+[1224/154558.571:INFO:CONSOLE(1)] "  [USE_CACHED_POLYGON_IMAGE] = false", source: http://127.0.0.1:8080/lib/live2d_display/live2d.min.js (1)
+[1224/154558.571:INFO:CONSOLE(1)] "  [EXPAND_W] = 2", source: http://127.0.0.1:8080/lib/live2d_display/live2d.min.js (1)
+[1224/154558.579:INFO:CONSOLE(305)] "%c Pio %c https://paugram.com  color: #fff; margin: 1em 0; padding: 5px 0; background: #673ab7; margin: 1em 0; padding: 5px 0; background: #efefef;", source: http://127.0.0.1:8080/lib/pio/pio.js (305)
+[1224/154558.580:INFO:CONSOLE(110)] "[Pio] Initialized container.", source: http://127.0.0.1:8080/lib/pio/pio_sdk4.js (110)
+[1224/154558.654:INFO:CONSOLE(8)] "
+ %c %c %c PixiJS 5.3.6 - ✰ WebGL 2 ✰  %c  %c  http://www.pixijs.com/  %c %c ♥%c♥%c♥ 
+
+ background: #ff66a5; padding:5px 0; background: #ff66a5; padding:5px 0; color: #ff66a5; background: #030307; padding:5px 0; background: #ff66a5; padding:5px 0; background: #ffc3dc; padding:5px 0; background: #ff66a5; padding:5px 0; color: #ff2424; background: #fff; padding:5px 0; color: #ff2424; background: #fff; padding:5px 0; color: #ff2424; background: #fff; padding:5px 0;", source: http://127.0.0.1:8080/lib/live2d_display/pixi.min.js (8)
+[1224/154558.734:INFO:CONSOLE(31)] "[Pio] Loading new model", source: http://127.0.0.1:8080/lib/pio/pio_sdk4.js (31)
+[1224/154558.746:INFO:CONSOLE(1)] "[CSM][I]Live2D Cubism Core version: 04.01.0000 (67174400)
+", source: http://127.0.0.1:8080/lib/live2d_display/index.min.js (1)
+[1224/154558.747:INFO:CONSOLE(1)] "[CSM][I]CubismFramework.startUp() is complete.
+", source: http://127.0.0.1:8080/lib/live2d_display/index.min.js (1)
+[1224/154558.747:INFO:CONSOLE(1)] "[CSM][I]CubismFramework.initialize() is complete.
+", source: http://127.0.0.1:8080/lib/live2d_display/index.min.js (1)
+[1224/154558.781:INFO:CONSOLE(9)] "Live2D Cubism SDK Core Version 4.1.0", source: http://127.0.0.1:8080/lib/live2d_display/live2dcubismcore.min.js (9)
+[1224/155355.355:INFO:CONSOLE(1)] "Live2D %s 2.1.00_1", source: http://127.0.0.1:8080/lib/live2d_display/live2d.min.js (1)
+[1224/155355.355:INFO:CONSOLE(1)] "profile : Desktop", source: http://127.0.0.1:8080/lib/live2d_display/live2d.min.js (1)
+[1224/155355.355:INFO:CONSOLE(1)] "  [PROFILE_NAME] = Desktop", source: http://127.0.0.1:8080/lib/live2d_display/live2d.min.js (1)
+[1224/155355.355:INFO:CONSOLE(1)] "  [USE_ADJUST_TRANSLATION] = false", source: http://127.0.0.1:8080/lib/live2d_display/live2d.min.js (1)
+[1224/155355.355:INFO:CONSOLE(1)] "  [USE_CACHED_POLYGON_IMAGE] = false", source: http://127.0.0.1:8080/lib/live2d_display/live2d.min.js (1)
+[1224/155355.356:INFO:CONSOLE(1)] "  [EXPAND_W] = 2", source: http://127.0.0.1:8080/lib/live2d_display/live2d.min.js (1)
+[1224/155355.364:INFO:CONSOLE(305)] "%c Pio %c https://paugram.com  color: #fff; margin: 1em 0; padding: 5px 0; background: #673ab7; margin: 1em 0; padding: 5px 0; background: #efefef;", source: http://127.0.0.1:8080/lib/pio/pio.js (305)
+[1224/155355.365:INFO:CONSOLE(110)] "[Pio] Initialized container.", source: http://127.0.0.1:8080/lib/pio/pio_sdk4.js (110)
+[1224/155355.439:INFO:CONSOLE(8)] "
+ %c %c %c PixiJS 5.3.6 - ✰ WebGL 2 ✰  %c  %c  http://www.pixijs.com/  %c %c ♥%c♥%c♥ 
+
+ background: #ff66a5; padding:5px 0; background: #ff66a5; padding:5px 0; color: #ff66a5; background: #030307; padding:5px 0; background: #ff66a5; padding:5px 0; background: #ffc3dc; padding:5px 0; background: #ff66a5; padding:5px 0; color: #ff2424; background: #fff; padding:5px 0; color: #ff2424; background: #fff; padding:5px 0; color: #ff2424; background: #fff; padding:5px 0;", source: http://127.0.0.1:8080/lib/live2d_display/pixi.min.js (8)
+[1224/155355.508:INFO:CONSOLE(31)] "[Pio] Loading new model", source: http://127.0.0.1:8080/lib/pio/pio_sdk4.js (31)
+[1224/155355.516:INFO:CONSOLE(1)] "[CSM][I]Live2D Cubism Core version: 04.01.0000 (67174400)
+", source: http://127.0.0.1:8080/lib/live2d_display/index.min.js (1)
+[1224/155355.516:INFO:CONSOLE(1)] "[CSM][I]CubismFramework.startUp() is complete.
+", source: http://127.0.0.1:8080/lib/live2d_display/index.min.js (1)
+[1224/155355.516:INFO:CONSOLE(1)] "[CSM][I]CubismFramework.initialize() is complete.
+", source: http://127.0.0.1:8080/lib/live2d_display/index.min.js (1)
+[1224/155355.534:INFO:CONSOLE(9)] "Live2D Cubism SDK Core Version 4.1.0", source: http://127.0.0.1:8080/lib/live2d_display/live2dcubismcore.min.js (9)
+[1224/155654.050:INFO:CONSOLE(1)] "Live2D %s 2.1.00_1", source: http://127.0.0.1:8080/lib/live2d_display/live2d.min.js (1)
+[1224/155654.050:INFO:CONSOLE(1)] "profile : Desktop", source: http://127.0.0.1:8080/lib/live2d_display/live2d.min.js (1)
+[1224/155654.050:INFO:CONSOLE(1)] "  [PROFILE_NAME] = Desktop", source: http://127.0.0.1:8080/lib/live2d_display/live2d.min.js (1)
+[1224/155654.050:INFO:CONSOLE(1)] "  [USE_ADJUST_TRANSLATION] = false", source: http://127.0.0.1:8080/lib/live2d_display/live2d.min.js (1)
+[1224/155654.050:INFO:CONSOLE(1)] "  [USE_CACHED_POLYGON_IMAGE] = false", source: http://127.0.0.1:8080/lib/live2d_display/live2d.min.js (1)
+[1224/155654.050:INFO:CONSOLE(1)] "  [EXPAND_W] = 2", source: http://127.0.0.1:8080/lib/live2d_display/live2d.min.js (1)
+[1224/155654.058:INFO:CONSOLE(305)] "%c Pio %c https://paugram.com  color: #fff; margin: 1em 0; padding: 5px 0; background: #673ab7; margin: 1em 0; padding: 5px 0; background: #efefef;", source: http://127.0.0.1:8080/lib/pio/pio.js (305)
+[1224/155654.059:INFO:CONSOLE(110)] "[Pio] Initialized container.", source: http://127.0.0.1:8080/lib/pio/pio_sdk4.js (110)
+[1224/155654.114:INFO:CONSOLE(8)] "
+ %c %c %c PixiJS 5.3.6 - ✰ WebGL 2 ✰  %c  %c  http://www.pixijs.com/  %c %c ♥%c♥%c♥ 
+
+ background: #ff66a5; padding:5px 0; background: #ff66a5; padding:5px 0; color: #ff66a5; background: #030307; padding:5px 0; background: #ff66a5; padding:5px 0; background: #ffc3dc; padding:5px 0; background: #ff66a5; padding:5px 0; color: #ff2424; background: #fff; padding:5px 0; color: #ff2424; background: #fff; padding:5px 0; color: #ff2424; background: #fff; padding:5px 0;", source: http://127.0.0.1:8080/lib/live2d_display/pixi.min.js (8)
+[1224/155654.594:INFO:CONSOLE(31)] "[Pio] Loading new model", source: http://127.0.0.1:8080/lib/pio/pio_sdk4.js (31)
+[1224/155654.604:INFO:CONSOLE(1)] "[CSM][I]Live2D Cubism Core version: 04.01.0000 (67174400)
+", source: http://127.0.0.1:8080/lib/live2d_display/index.min.js (1)
+[1224/155654.605:INFO:CONSOLE(1)] "[CSM][I]CubismFramework.startUp() is complete.
+", source: http://127.0.0.1:8080/lib/live2d_display/index.min.js (1)
+[1224/155654.605:INFO:CONSOLE(1)] "[CSM][I]CubismFramework.initialize() is complete.
+", source: http://127.0.0.1:8080/lib/live2d_display/index.min.js (1)
+[1224/155654.641:INFO:CONSOLE(9)] "Live2D Cubism SDK Core Version 4.1.0", source: http://127.0.0.1:8080/lib/live2d_display/live2dcubismcore.min.js (9)
+[1224/160057.365:INFO:CONSOLE(1)] "Live2D %s 2.1.00_1", source: http://127.0.0.1:8080/lib/live2d_display/live2d.min.js (1)
+[1224/160057.365:INFO:CONSOLE(1)] "profile : Desktop", source: http://127.0.0.1:8080/lib/live2d_display/live2d.min.js (1)
+[1224/160057.365:INFO:CONSOLE(1)] "  [PROFILE_NAME] = Desktop", source: http://127.0.0.1:8080/lib/live2d_display/live2d.min.js (1)
+[1224/160057.366:INFO:CONSOLE(1)] "  [USE_ADJUST_TRANSLATION] = false", source: http://127.0.0.1:8080/lib/live2d_display/live2d.min.js (1)
+[1224/160057.366:INFO:CONSOLE(1)] "  [USE_CACHED_POLYGON_IMAGE] = false", source: http://127.0.0.1:8080/lib/live2d_display/live2d.min.js (1)
+[1224/160057.366:INFO:CONSOLE(1)] "  [EXPAND_W] = 2", source: http://127.0.0.1:8080/lib/live2d_display/live2d.min.js (1)
+[1224/160057.367:INFO:CONSOLE(305)] "%c Pio %c https://paugram.com  color: #fff; margin: 1em 0; padding: 5px 0; background: #673ab7; margin: 1em 0; padding: 5px 0; background: #efefef;", source: http://127.0.0.1:8080/lib/pio/pio.js (305)
+[1224/160057.368:INFO:CONSOLE(110)] "[Pio] Initialized container.", source: http://127.0.0.1:8080/lib/pio/pio_sdk4.js (110)
+[1224/160057.441:INFO:CONSOLE(8)] "
+ %c %c %c PixiJS 5.3.6 - ✰ WebGL 2 ✰  %c  %c  http://www.pixijs.com/  %c %c ♥%c♥%c♥ 
+
+ background: #ff66a5; padding:5px 0; background: #ff66a5; padding:5px 0; color: #ff66a5; background: #030307; padding:5px 0; background: #ff66a5; padding:5px 0; background: #ffc3dc; padding:5px 0; background: #ff66a5; padding:5px 0; color: #ff2424; background: #fff; padding:5px 0; color: #ff2424; background: #fff; padding:5px 0; color: #ff2424; background: #fff; padding:5px 0;", source: http://127.0.0.1:8080/lib/live2d_display/pixi.min.js (8)
+[1224/160057.536:INFO:CONSOLE(31)] "[Pio] Loading new model", source: http://127.0.0.1:8080/lib/pio/pio_sdk4.js (31)
+[1224/160057.558:INFO:CONSOLE(1)] "[CSM][I]Live2D Cubism Core version: 04.01.0000 (67174400)
+", source: http://127.0.0.1:8080/lib/live2d_display/index.min.js (1)
+[1224/160057.558:INFO:CONSOLE(1)] "[CSM][I]CubismFramework.startUp() is complete.
+", source: http://127.0.0.1:8080/lib/live2d_display/index.min.js (1)
+[1224/160057.558:INFO:CONSOLE(1)] "[CSM][I]CubismFramework.initialize() is complete.
+", source: http://127.0.0.1:8080/lib/live2d_display/index.min.js (1)
+[1224/160057.575:INFO:CONSOLE(9)] "Live2D Cubism SDK Core Version 4.1.0", source: http://127.0.0.1:8080/lib/live2d_display/live2dcubismcore.min.js (9)
+[1224/160223.115:INFO:CONSOLE(1)] "Live2D %s 2.1.00_1", source: http://127.0.0.1:8080/lib/live2d_display/live2d.min.js (1)
+[1224/160223.115:INFO:CONSOLE(1)] "profile : Desktop", source: http://127.0.0.1:8080/lib/live2d_display/live2d.min.js (1)
+[1224/160223.115:INFO:CONSOLE(1)] "  [PROFILE_NAME] = Desktop", source: http://127.0.0.1:8080/lib/live2d_display/live2d.min.js (1)
+[1224/160223.115:INFO:CONSOLE(1)] "  [USE_ADJUST_TRANSLATION] = false", source: http://127.0.0.1:8080/lib/live2d_display/live2d.min.js (1)
+[1224/160223.115:INFO:CONSOLE(1)] "  [USE_CACHED_POLYGON_IMAGE] = false", source: http://127.0.0.1:8080/lib/live2d_display/live2d.min.js (1)
+[1224/160223.115:INFO:CONSOLE(1)] "  [EXPAND_W] = 2", source: http://127.0.0.1:8080/lib/live2d_display/live2d.min.js (1)
+[1224/160223.123:INFO:CONSOLE(305)] "%c Pio %c https://paugram.com  color: #fff; margin: 1em 0; padding: 5px 0; background: #673ab7; margin: 1em 0; padding: 5px 0; background: #efefef;", source: http://127.0.0.1:8080/lib/pio/pio.js (305)
+[1224/160223.124:INFO:CONSOLE(110)] "[Pio] Initialized container.", source: http://127.0.0.1:8080/lib/pio/pio_sdk4.js (110)
+[1224/160223.171:INFO:CONSOLE(8)] "
+ %c %c %c PixiJS 5.3.6 - ✰ WebGL 2 ✰  %c  %c  http://www.pixijs.com/  %c %c ♥%c♥%c♥ 
+
+ background: #ff66a5; padding:5px 0; background: #ff66a5; padding:5px 0; color: #ff66a5; background: #030307; padding:5px 0; background: #ff66a5; padding:5px 0; background: #ffc3dc; padding:5px 0; background: #ff66a5; padding:5px 0; color: #ff2424; background: #fff; padding:5px 0; color: #ff2424; background: #fff; padding:5px 0; color: #ff2424; background: #fff; padding:5px 0;", source: http://127.0.0.1:8080/lib/live2d_display/pixi.min.js (8)
+[1224/160223.238:INFO:CONSOLE(31)] "[Pio] Loading new model", source: http://127.0.0.1:8080/lib/pio/pio_sdk4.js (31)
+[1224/160223.263:INFO:CONSOLE(1)] "[CSM][I]Live2D Cubism Core version: 04.01.0000 (67174400)
+", source: http://127.0.0.1:8080/lib/live2d_display/index.min.js (1)
+[1224/160223.264:INFO:CONSOLE(1)] "[CSM][I]CubismFramework.startUp() is complete.
+", source: http://127.0.0.1:8080/lib/live2d_display/index.min.js (1)
+[1224/160223.264:INFO:CONSOLE(1)] "[CSM][I]CubismFramework.initialize() is complete.
+", source: http://127.0.0.1:8080/lib/live2d_display/index.min.js (1)
+[1224/160223.281:INFO:CONSOLE(9)] "Live2D Cubism SDK Core Version 4.1.0", source: http://127.0.0.1:8080/lib/live2d_display/live2dcubismcore.min.js (9)
+[1224/160323.675:INFO:CONSOLE(1)] "Live2D %s 2.1.00_1", source: http://127.0.0.1:8080/lib/live2d_display/live2d.min.js (1)
+[1224/160323.676:INFO:CONSOLE(1)] "profile : Desktop", source: http://127.0.0.1:8080/lib/live2d_display/live2d.min.js (1)
+[1224/160323.676:INFO:CONSOLE(1)] "  [PROFILE_NAME] = Desktop", source: http://127.0.0.1:8080/lib/live2d_display/live2d.min.js (1)
+[1224/160323.676:INFO:CONSOLE(1)] "  [USE_ADJUST_TRANSLATION] = false", source: http://127.0.0.1:8080/lib/live2d_display/live2d.min.js (1)
+[1224/160323.676:INFO:CONSOLE(1)] "  [USE_CACHED_POLYGON_IMAGE] = false", source: http://127.0.0.1:8080/lib/live2d_display/live2d.min.js (1)
+[1224/160323.676:INFO:CONSOLE(1)] "  [EXPAND_W] = 2", source: http://127.0.0.1:8080/lib/live2d_display/live2d.min.js (1)
+[1224/160323.683:INFO:CONSOLE(305)] "%c Pio %c https://paugram.com  color: #fff; margin: 1em 0; padding: 5px 0; background: #673ab7; margin: 1em 0; padding: 5px 0; background: #efefef;", source: http://127.0.0.1:8080/lib/pio/pio.js (305)
+[1224/160323.683:INFO:CONSOLE(110)] "[Pio] Initialized container.", source: http://127.0.0.1:8080/lib/pio/pio_sdk4.js (110)
+[1224/160323.731:INFO:CONSOLE(8)] "
+ %c %c %c PixiJS 5.3.6 - ✰ WebGL 2 ✰  %c  %c  http://www.pixijs.com/  %c %c ♥%c♥%c♥ 
+
+ background: #ff66a5; padding:5px 0; background: #ff66a5; padding:5px 0; color: #ff66a5; background: #030307; padding:5px 0; background: #ff66a5; padding:5px 0; background: #ffc3dc; padding:5px 0; background: #ff66a5; padding:5px 0; color: #ff2424; background: #fff; padding:5px 0; color: #ff2424; background: #fff; padding:5px 0; color: #ff2424; background: #fff; padding:5px 0;", source: http://127.0.0.1:8080/lib/live2d_display/pixi.min.js (8)
+[1224/160323.875:INFO:CONSOLE(31)] "[Pio] Loading new model", source: http://127.0.0.1:8080/lib/pio/pio_sdk4.js (31)
+[1224/160323.881:INFO:CONSOLE(1)] "[CSM][I]Live2D Cubism Core version: 04.01.0000 (67174400)
+", source: http://127.0.0.1:8080/lib/live2d_display/index.min.js (1)
+[1224/160323.881:INFO:CONSOLE(1)] "[CSM][I]CubismFramework.startUp() is complete.
+", source: http://127.0.0.1:8080/lib/live2d_display/index.min.js (1)
+[1224/160323.881:INFO:CONSOLE(1)] "[CSM][I]CubismFramework.initialize() is complete.
+", source: http://127.0.0.1:8080/lib/live2d_display/index.min.js (1)
+[1224/160323.921:INFO:CONSOLE(9)] "Live2D Cubism SDK Core Version 4.1.0", source: http://127.0.0.1:8080/lib/live2d_display/live2dcubismcore.min.js (9)
+[1224/160433.229:INFO:CONSOLE(1)] "Live2D %s 2.1.00_1", source: http://127.0.0.1:8080/lib/live2d_display/live2d.min.js (1)
+[1224/160433.229:INFO:CONSOLE(1)] "profile : Desktop", source: http://127.0.0.1:8080/lib/live2d_display/live2d.min.js (1)
+[1224/160433.229:INFO:CONSOLE(1)] "  [PROFILE_NAME] = Desktop", source: http://127.0.0.1:8080/lib/live2d_display/live2d.min.js (1)
+[1224/160433.229:INFO:CONSOLE(1)] "  [USE_ADJUST_TRANSLATION] = false", source: http://127.0.0.1:8080/lib/live2d_display/live2d.min.js (1)
+[1224/160433.229:INFO:CONSOLE(1)] "  [USE_CACHED_POLYGON_IMAGE] = false", source: http://127.0.0.1:8080/lib/live2d_display/live2d.min.js (1)
+[1224/160433.229:INFO:CONSOLE(1)] "  [EXPAND_W] = 2", source: http://127.0.0.1:8080/lib/live2d_display/live2d.min.js (1)
+[1224/160433.235:INFO:CONSOLE(305)] "%c Pio %c https://paugram.com  color: #fff; margin: 1em 0; padding: 5px 0; background: #673ab7; margin: 1em 0; padding: 5px 0; background: #efefef;", source: http://127.0.0.1:8080/lib/pio/pio.js (305)
+[1224/160433.235:INFO:CONSOLE(110)] "[Pio] Initialized container.", source: http://127.0.0.1:8080/lib/pio/pio_sdk4.js (110)
+[1224/160433.281:INFO:CONSOLE(8)] "
+ %c %c %c PixiJS 5.3.6 - ✰ WebGL 2 ✰  %c  %c  http://www.pixijs.com/  %c %c ♥%c♥%c♥ 
+
+ background: #ff66a5; padding:5px 0; background: #ff66a5; padding:5px 0; color: #ff66a5; background: #030307; padding:5px 0; background: #ff66a5; padding:5px 0; background: #ffc3dc; padding:5px 0; background: #ff66a5; padding:5px 0; color: #ff2424; background: #fff; padding:5px 0; color: #ff2424; background: #fff; padding:5px 0; color: #ff2424; background: #fff; padding:5px 0;", source: http://127.0.0.1:8080/lib/live2d_display/pixi.min.js (8)
+[1224/160433.350:INFO:CONSOLE(31)] "[Pio] Loading new model", source: http://127.0.0.1:8080/lib/pio/pio_sdk4.js (31)
+[1224/160433.362:INFO:CONSOLE(1)] "[CSM][I]Live2D Cubism Core version: 04.01.0000 (67174400)
+", source: http://127.0.0.1:8080/lib/live2d_display/index.min.js (1)
+[1224/160433.362:INFO:CONSOLE(1)] "[CSM][I]CubismFramework.startUp() is complete.
+", source: http://127.0.0.1:8080/lib/live2d_display/index.min.js (1)
+[1224/160433.362:INFO:CONSOLE(1)] "[CSM][I]CubismFramework.initialize() is complete.
+", source: http://127.0.0.1:8080/lib/live2d_display/index.min.js (1)
+[1224/160433.418:INFO:CONSOLE(9)] "Live2D Cubism SDK Core Version 4.1.0", source: http://127.0.0.1:8080/lib/live2d_display/live2dcubismcore.min.js (9)
+[1224/160457.679:INFO:CONSOLE(1)] "Live2D %s 2.1.00_1", source: http://127.0.0.1:8080/lib/live2d_display/live2d.min.js (1)
+[1224/160457.679:INFO:CONSOLE(1)] "profile : Desktop", source: http://127.0.0.1:8080/lib/live2d_display/live2d.min.js (1)
+[1224/160457.679:INFO:CONSOLE(1)] "  [PROFILE_NAME] = Desktop", source: http://127.0.0.1:8080/lib/live2d_display/live2d.min.js (1)
+[1224/160457.679:INFO:CONSOLE(1)] "  [USE_ADJUST_TRANSLATION] = false", source: http://127.0.0.1:8080/lib/live2d_display/live2d.min.js (1)
+[1224/160457.679:INFO:CONSOLE(1)] "  [USE_CACHED_POLYGON_IMAGE] = false", source: http://127.0.0.1:8080/lib/live2d_display/live2d.min.js (1)
+[1224/160457.679:INFO:CONSOLE(1)] "  [EXPAND_W] = 2", source: http://127.0.0.1:8080/lib/live2d_display/live2d.min.js (1)
+[1224/160457.690:INFO:CONSOLE(305)] "%c Pio %c https://paugram.com  color: #fff; margin: 1em 0; padding: 5px 0; background: #673ab7; margin: 1em 0; padding: 5px 0; background: #efefef;", source: http://127.0.0.1:8080/lib/pio/pio.js (305)
+[1224/160457.691:INFO:CONSOLE(110)] "[Pio] Initialized container.", source: http://127.0.0.1:8080/lib/pio/pio_sdk4.js (110)
+[1224/160457.748:INFO:CONSOLE(8)] "
+ %c %c %c PixiJS 5.3.6 - ✰ WebGL 2 ✰  %c  %c  http://www.pixijs.com/  %c %c ♥%c♥%c♥ 
+
+ background: #ff66a5; padding:5px 0; background: #ff66a5; padding:5px 0; color: #ff66a5; background: #030307; padding:5px 0; background: #ff66a5; padding:5px 0; background: #ffc3dc; padding:5px 0; background: #ff66a5; padding:5px 0; color: #ff2424; background: #fff; padding:5px 0; color: #ff2424; background: #fff; padding:5px 0; color: #ff2424; background: #fff; padding:5px 0;", source: http://127.0.0.1:8080/lib/live2d_display/pixi.min.js (8)
+[1224/160457.807:INFO:CONSOLE(31)] "[Pio] Loading new model", source: http://127.0.0.1:8080/lib/pio/pio_sdk4.js (31)
+[1224/160457.839:INFO:CONSOLE(1)] "[CSM][I]Live2D Cubism Core version: 04.01.0000 (67174400)
+", source: http://127.0.0.1:8080/lib/live2d_display/index.min.js (1)
+[1224/160457.839:INFO:CONSOLE(1)] "[CSM][I]CubismFramework.startUp() is complete.
+", source: http://127.0.0.1:8080/lib/live2d_display/index.min.js (1)
+[1224/160457.839:INFO:CONSOLE(1)] "[CSM][I]CubismFramework.initialize() is complete.
+", source: http://127.0.0.1:8080/lib/live2d_display/index.min.js (1)
+[1224/160457.865:INFO:CONSOLE(9)] "Live2D Cubism SDK Core Version 4.1.0", source: http://127.0.0.1:8080/lib/live2d_display/live2dcubismcore.min.js (9)
+[1224/160551.740:INFO:CONSOLE(1)] "Live2D %s 2.1.00_1", source: http://127.0.0.1:8080/lib/live2d_display/live2d.min.js (1)
+[1224/160551.740:INFO:CONSOLE(1)] "profile : Desktop", source: http://127.0.0.1:8080/lib/live2d_display/live2d.min.js (1)
+[1224/160551.740:INFO:CONSOLE(1)] "  [PROFILE_NAME] = Desktop", source: http://127.0.0.1:8080/lib/live2d_display/live2d.min.js (1)
+[1224/160551.740:INFO:CONSOLE(1)] "  [USE_ADJUST_TRANSLATION] = false", source: http://127.0.0.1:8080/lib/live2d_display/live2d.min.js (1)
+[1224/160551.740:INFO:CONSOLE(1)] "  [USE_CACHED_POLYGON_IMAGE] = false", source: http://127.0.0.1:8080/lib/live2d_display/live2d.min.js (1)
+[1224/160551.740:INFO:CONSOLE(1)] "  [EXPAND_W] = 2", source: http://127.0.0.1:8080/lib/live2d_display/live2d.min.js (1)
+[1224/160551.746:INFO:CONSOLE(305)] "%c Pio %c https://paugram.com  color: #fff; margin: 1em 0; padding: 5px 0; background: #673ab7; margin: 1em 0; padding: 5px 0; background: #efefef;", source: http://127.0.0.1:8080/lib/pio/pio.js (305)
+[1224/160551.746:INFO:CONSOLE(110)] "[Pio] Initialized container.", source: http://127.0.0.1:8080/lib/pio/pio_sdk4.js (110)
+[1224/160551.792:INFO:CONSOLE(8)] "
+ %c %c %c PixiJS 5.3.6 - ✰ WebGL 2 ✰  %c  %c  http://www.pixijs.com/  %c %c ♥%c♥%c♥ 
+
+ background: #ff66a5; padding:5px 0; background: #ff66a5; padding:5px 0; color: #ff66a5; background: #030307; padding:5px 0; background: #ff66a5; padding:5px 0; background: #ffc3dc; padding:5px 0; background: #ff66a5; padding:5px 0; color: #ff2424; background: #fff; padding:5px 0; color: #ff2424; background: #fff; padding:5px 0; color: #ff2424; background: #fff; padding:5px 0;", source: http://127.0.0.1:8080/lib/live2d_display/pixi.min.js (8)
+[1224/160554.464:INFO:CONSOLE(31)] "[Pio] Loading new model", source: http://127.0.0.1:8080/lib/pio/pio_sdk4.js (31)
+[1224/160554.518:INFO:CONSOLE(1)] "[CSM][I]Live2D Cubism Core version: 04.01.0000 (67174400)
+", source: http://127.0.0.1:8080/lib/live2d_display/index.min.js (1)
+[1224/160554.518:INFO:CONSOLE(1)] "[CSM][I]CubismFramework.startUp() is complete.
+", source: http://127.0.0.1:8080/lib/live2d_display/index.min.js (1)
+[1224/160554.518:INFO:CONSOLE(1)] "[CSM][I]CubismFramework.initialize() is complete.
+", source: http://127.0.0.1:8080/lib/live2d_display/index.min.js (1)
+[1224/160554.529:INFO:CONSOLE(9)] "Live2D Cubism SDK Core Version 4.1.0", source: http://127.0.0.1:8080/lib/live2d_display/live2dcubismcore.min.js (9)
+[1224/160604.539:INFO:CONSOLE(31)] "[Pio] Loading new model", source: http://127.0.0.1:8080/lib/pio/pio_sdk4.js (31)
+[1224/160604.576:INFO:CONSOLE(9)] "Live2D Cubism SDK Core Version 4.1.0", source: http://127.0.0.1:8080/lib/live2d_display/live2dcubismcore.min.js (9)
+[1224/160713.955:INFO:CONSOLE(1)] "Live2D %s 2.1.00_1", source: http://127.0.0.1:8080/lib/live2d_display/live2d.min.js (1)
+[1224/160713.955:INFO:CONSOLE(1)] "profile : Desktop", source: http://127.0.0.1:8080/lib/live2d_display/live2d.min.js (1)
+[1224/160713.955:INFO:CONSOLE(1)] "  [PROFILE_NAME] = Desktop", source: http://127.0.0.1:8080/lib/live2d_display/live2d.min.js (1)
+[1224/160713.955:INFO:CONSOLE(1)] "  [USE_ADJUST_TRANSLATION] = false", source: http://127.0.0.1:8080/lib/live2d_display/live2d.min.js (1)
+[1224/160713.955:INFO:CONSOLE(1)] "  [USE_CACHED_POLYGON_IMAGE] = false", source: http://127.0.0.1:8080/lib/live2d_display/live2d.min.js (1)
+[1224/160713.955:INFO:CONSOLE(1)] "  [EXPAND_W] = 2", source: http://127.0.0.1:8080/lib/live2d_display/live2d.min.js (1)
+[1224/160713.962:INFO:CONSOLE(305)] "%c Pio %c https://paugram.com  color: #fff; margin: 1em 0; padding: 5px 0; background: #673ab7; margin: 1em 0; padding: 5px 0; background: #efefef;", source: http://127.0.0.1:8080/lib/pio/pio.js (305)
+[1224/160713.963:INFO:CONSOLE(110)] "[Pio] Initialized container.", source: http://127.0.0.1:8080/lib/pio/pio_sdk4.js (110)
+[1224/160714.022:INFO:CONSOLE(8)] "
+ %c %c %c PixiJS 5.3.6 - ✰ WebGL 2 ✰  %c  %c  http://www.pixijs.com/  %c %c ♥%c♥%c♥ 
+
+ background: #ff66a5; padding:5px 0; background: #ff66a5; padding:5px 0; color: #ff66a5; background: #030307; padding:5px 0; background: #ff66a5; padding:5px 0; background: #ffc3dc; padding:5px 0; background: #ff66a5; padding:5px 0; color: #ff2424; background: #fff; padding:5px 0; color: #ff2424; background: #fff; padding:5px 0; color: #ff2424; background: #fff; padding:5px 0;", source: http://127.0.0.1:8080/lib/live2d_display/pixi.min.js (8)
+[1224/160714.108:INFO:CONSOLE(31)] "[Pio] Loading new model", source: http://127.0.0.1:8080/lib/pio/pio_sdk4.js (31)
+[1224/160714.118:INFO:CONSOLE(1)] "[CSM][I]Live2D Cubism Core version: 04.01.0000 (67174400)
+", source: http://127.0.0.1:8080/lib/live2d_display/index.min.js (1)
+[1224/160714.119:INFO:CONSOLE(1)] "[CSM][I]CubismFramework.startUp() is complete.
+", source: http://127.0.0.1:8080/lib/live2d_display/index.min.js (1)
+[1224/160714.119:INFO:CONSOLE(1)] "[CSM][I]CubismFramework.initialize() is complete.
+", source: http://127.0.0.1:8080/lib/live2d_display/index.min.js (1)
+[1224/160714.158:INFO:CONSOLE(9)] "Live2D Cubism SDK Core Version 4.1.0", source: http://127.0.0.1:8080/lib/live2d_display/live2dcubismcore.min.js (9)
+[1224/161052.563:INFO:CONSOLE(1)] "Live2D %s 2.1.00_1", source: http://127.0.0.1:8080/lib/live2d_display/live2d.min.js (1)
+[1224/161052.563:INFO:CONSOLE(1)] "profile : Desktop", source: http://127.0.0.1:8080/lib/live2d_display/live2d.min.js (1)
+[1224/161052.563:INFO:CONSOLE(1)] "  [PROFILE_NAME] = Desktop", source: http://127.0.0.1:8080/lib/live2d_display/live2d.min.js (1)
+[1224/161052.563:INFO:CONSOLE(1)] "  [USE_ADJUST_TRANSLATION] = false", source: http://127.0.0.1:8080/lib/live2d_display/live2d.min.js (1)
+[1224/161052.563:INFO:CONSOLE(1)] "  [USE_CACHED_POLYGON_IMAGE] = false", source: http://127.0.0.1:8080/lib/live2d_display/live2d.min.js (1)
+[1224/161052.563:INFO:CONSOLE(1)] "  [EXPAND_W] = 2", source: http://127.0.0.1:8080/lib/live2d_display/live2d.min.js (1)
+[1224/161052.576:INFO:CONSOLE(305)] "%c Pio %c https://paugram.com  color: #fff; margin: 1em 0; padding: 5px 0; background: #673ab7; margin: 1em 0; padding: 5px 0; background: #efefef;", source: http://127.0.0.1:8080/lib/pio/pio.js (305)
+[1224/161052.576:INFO:CONSOLE(110)] "[Pio] Initialized container.", source: http://127.0.0.1:8080/lib/pio/pio_sdk4.js (110)
+[1224/161052.643:INFO:CONSOLE(8)] "
+ %c %c %c PixiJS 5.3.6 - ✰ WebGL 2 ✰  %c  %c  http://www.pixijs.com/  %c %c ♥%c♥%c♥ 
+
+ background: #ff66a5; padding:5px 0; background: #ff66a5; padding:5px 0; color: #ff66a5; background: #030307; padding:5px 0; background: #ff66a5; padding:5px 0; background: #ffc3dc; padding:5px 0; background: #ff66a5; padding:5px 0; color: #ff2424; background: #fff; padding:5px 0; color: #ff2424; background: #fff; padding:5px 0; color: #ff2424; background: #fff; padding:5px 0;", source: http://127.0.0.1:8080/lib/live2d_display/pixi.min.js (8)
+[1224/161052.723:INFO:CONSOLE(31)] "[Pio] Loading new model", source: http://127.0.0.1:8080/lib/pio/pio_sdk4.js (31)
+[1224/161052.837:INFO:CONSOLE(1)] "[CSM][I]Live2D Cubism Core version: 04.01.0000 (67174400)
+", source: http://127.0.0.1:8080/lib/live2d_display/index.min.js (1)
+[1224/161052.837:INFO:CONSOLE(1)] "[CSM][I]CubismFramework.startUp() is complete.
+", source: http://127.0.0.1:8080/lib/live2d_display/index.min.js (1)
+[1224/161052.837:INFO:CONSOLE(1)] "[CSM][I]CubismFramework.initialize() is complete.
+", source: http://127.0.0.1:8080/lib/live2d_display/index.min.js (1)
+[1224/161052.875:INFO:CONSOLE(9)] "Live2D Cubism SDK Core Version 4.1.0", source: http://127.0.0.1:8080/lib/live2d_display/live2dcubismcore.min.js (9)
+[1224/161114.394:INFO:CONSOLE(1)] "Live2D %s 2.1.00_1", source: http://127.0.0.1:8080/lib/live2d_display/live2d.min.js (1)
+[1224/161114.394:INFO:CONSOLE(1)] "profile : Desktop", source: http://127.0.0.1:8080/lib/live2d_display/live2d.min.js (1)
+[1224/161114.394:INFO:CONSOLE(1)] "  [PROFILE_NAME] = Desktop", source: http://127.0.0.1:8080/lib/live2d_display/live2d.min.js (1)
+[1224/161114.394:INFO:CONSOLE(1)] "  [USE_ADJUST_TRANSLATION] = false", source: http://127.0.0.1:8080/lib/live2d_display/live2d.min.js (1)
+[1224/161114.394:INFO:CONSOLE(1)] "  [USE_CACHED_POLYGON_IMAGE] = false", source: http://127.0.0.1:8080/lib/live2d_display/live2d.min.js (1)
+[1224/161114.394:INFO:CONSOLE(1)] "  [EXPAND_W] = 2", source: http://127.0.0.1:8080/lib/live2d_display/live2d.min.js (1)
+[1224/161114.403:INFO:CONSOLE(305)] "%c Pio %c https://paugram.com  color: #fff; margin: 1em 0; padding: 5px 0; background: #673ab7; margin: 1em 0; padding: 5px 0; background: #efefef;", source: http://127.0.0.1:8080/lib/pio/pio.js (305)
+[1224/161114.404:INFO:CONSOLE(110)] "[Pio] Initialized container.", source: http://127.0.0.1:8080/lib/pio/pio_sdk4.js (110)
+[1224/161114.463:INFO:CONSOLE(8)] "
+ %c %c %c PixiJS 5.3.6 - ✰ WebGL 2 ✰  %c  %c  http://www.pixijs.com/  %c %c ♥%c♥%c♥ 
+
+ background: #ff66a5; padding:5px 0; background: #ff66a5; padding:5px 0; color: #ff66a5; background: #030307; padding:5px 0; background: #ff66a5; padding:5px 0; background: #ffc3dc; padding:5px 0; background: #ff66a5; padding:5px 0; color: #ff2424; background: #fff; padding:5px 0; color: #ff2424; background: #fff; padding:5px 0; color: #ff2424; background: #fff; padding:5px 0;", source: http://127.0.0.1:8080/lib/live2d_display/pixi.min.js (8)
+[1224/161114.529:INFO:CONSOLE(31)] "[Pio] Loading new model", source: http://127.0.0.1:8080/lib/pio/pio_sdk4.js (31)
+[1224/161114.545:INFO:CONSOLE(1)] "[CSM][I]Live2D Cubism Core version: 04.01.0000 (67174400)
+", source: http://127.0.0.1:8080/lib/live2d_display/index.min.js (1)
+[1224/161114.546:INFO:CONSOLE(1)] "[CSM][I]CubismFramework.startUp() is complete.
+", source: http://127.0.0.1:8080/lib/live2d_display/index.min.js (1)
+[1224/161114.546:INFO:CONSOLE(1)] "[CSM][I]CubismFramework.initialize() is complete.
+", source: http://127.0.0.1:8080/lib/live2d_display/index.min.js (1)
+[1224/161114.577:INFO:CONSOLE(9)] "Live2D Cubism SDK Core Version 4.1.0", source: http://127.0.0.1:8080/lib/live2d_display/live2dcubismcore.min.js (9)
+[1224/161201.444:INFO:CONSOLE(1)] "Live2D %s 2.1.00_1", source: http://127.0.0.1:8080/lib/live2d_display/live2d.min.js (1)
+[1224/161201.444:INFO:CONSOLE(1)] "profile : Desktop", source: http://127.0.0.1:8080/lib/live2d_display/live2d.min.js (1)
+[1224/161201.444:INFO:CONSOLE(1)] "  [PROFILE_NAME] = Desktop", source: http://127.0.0.1:8080/lib/live2d_display/live2d.min.js (1)
+[1224/161201.444:INFO:CONSOLE(1)] "  [USE_ADJUST_TRANSLATION] = false", source: http://127.0.0.1:8080/lib/live2d_display/live2d.min.js (1)
+[1224/161201.444:INFO:CONSOLE(1)] "  [USE_CACHED_POLYGON_IMAGE] = false", source: http://127.0.0.1:8080/lib/live2d_display/live2d.min.js (1)
+[1224/161201.444:INFO:CONSOLE(1)] "  [EXPAND_W] = 2", source: http://127.0.0.1:8080/lib/live2d_display/live2d.min.js (1)
+[1224/161201.451:INFO:CONSOLE(305)] "%c Pio %c https://paugram.com  color: #fff; margin: 1em 0; padding: 5px 0; background: #673ab7; margin: 1em 0; padding: 5px 0; background: #efefef;", source: http://127.0.0.1:8080/lib/pio/pio.js (305)
+[1224/161201.452:INFO:CONSOLE(110)] "[Pio] Initialized container.", source: http://127.0.0.1:8080/lib/pio/pio_sdk4.js (110)
+[1224/161201.511:INFO:CONSOLE(8)] "
+ %c %c %c PixiJS 5.3.6 - ✰ WebGL 2 ✰  %c  %c  http://www.pixijs.com/  %c %c ♥%c♥%c♥ 
+
+ background: #ff66a5; padding:5px 0; background: #ff66a5; padding:5px 0; color: #ff66a5; background: #030307; padding:5px 0; background: #ff66a5; padding:5px 0; background: #ffc3dc; padding:5px 0; background: #ff66a5; padding:5px 0; color: #ff2424; background: #fff; padding:5px 0; color: #ff2424; background: #fff; padding:5px 0; color: #ff2424; background: #fff; padding:5px 0;", source: http://127.0.0.1:8080/lib/live2d_display/pixi.min.js (8)
+[1224/161201.583:INFO:CONSOLE(31)] "[Pio] Loading new model", source: http://127.0.0.1:8080/lib/pio/pio_sdk4.js (31)
+[1224/161201.603:INFO:CONSOLE(1)] "[CSM][I]Live2D Cubism Core version: 04.01.0000 (67174400)
+", source: http://127.0.0.1:8080/lib/live2d_display/index.min.js (1)
+[1224/161201.603:INFO:CONSOLE(1)] "[CSM][I]CubismFramework.startUp() is complete.
+", source: http://127.0.0.1:8080/lib/live2d_display/index.min.js (1)
+[1224/161201.603:INFO:CONSOLE(1)] "[CSM][I]CubismFramework.initialize() is complete.
+", source: http://127.0.0.1:8080/lib/live2d_display/index.min.js (1)
+[1224/161201.646:INFO:CONSOLE(9)] "Live2D Cubism SDK Core Version 4.1.0", source: http://127.0.0.1:8080/lib/live2d_display/live2dcubismcore.min.js (9)
+[1224/161251.805:INFO:CONSOLE(1)] "Live2D %s 2.1.00_1", source: http://127.0.0.1:8080/lib/live2d_display/live2d.min.js (1)
+[1224/161251.806:INFO:CONSOLE(1)] "profile : Desktop", source: http://127.0.0.1:8080/lib/live2d_display/live2d.min.js (1)
+[1224/161251.806:INFO:CONSOLE(1)] "  [PROFILE_NAME] = Desktop", source: http://127.0.0.1:8080/lib/live2d_display/live2d.min.js (1)
+[1224/161251.806:INFO:CONSOLE(1)] "  [USE_ADJUST_TRANSLATION] = false", source: http://127.0.0.1:8080/lib/live2d_display/live2d.min.js (1)
+[1224/161251.806:INFO:CONSOLE(1)] "  [USE_CACHED_POLYGON_IMAGE] = false", source: http://127.0.0.1:8080/lib/live2d_display/live2d.min.js (1)
+[1224/161251.806:INFO:CONSOLE(1)] "  [EXPAND_W] = 2", source: http://127.0.0.1:8080/lib/live2d_display/live2d.min.js (1)
+[1224/161251.812:INFO:CONSOLE(305)] "%c Pio %c https://paugram.com  color: #fff; margin: 1em 0; padding: 5px 0; background: #673ab7; margin: 1em 0; padding: 5px 0; background: #efefef;", source: http://127.0.0.1:8080/lib/pio/pio.js (305)
+[1224/161251.812:INFO:CONSOLE(110)] "[Pio] Initialized container.", source: http://127.0.0.1:8080/lib/pio/pio_sdk4.js (110)
+[1224/161251.863:INFO:CONSOLE(8)] "
+ %c %c %c PixiJS 5.3.6 - ✰ WebGL 2 ✰  %c  %c  http://www.pixijs.com/  %c %c ♥%c♥%c♥ 
+
+ background: #ff66a5; padding:5px 0; background: #ff66a5; padding:5px 0; color: #ff66a5; background: #030307; padding:5px 0; background: #ff66a5; padding:5px 0; background: #ffc3dc; padding:5px 0; background: #ff66a5; padding:5px 0; color: #ff2424; background: #fff; padding:5px 0; color: #ff2424; background: #fff; padding:5px 0; color: #ff2424; background: #fff; padding:5px 0;", source: http://127.0.0.1:8080/lib/live2d_display/pixi.min.js (8)
+[1224/161251.942:INFO:CONSOLE(31)] "[Pio] Loading new model", source: http://127.0.0.1:8080/lib/pio/pio_sdk4.js (31)
+[1224/161251.958:INFO:CONSOLE(1)] "[CSM][I]Live2D Cubism Core version: 04.01.0000 (67174400)
+", source: http://127.0.0.1:8080/lib/live2d_display/index.min.js (1)
+[1224/161251.958:INFO:CONSOLE(1)] "[CSM][I]CubismFramework.startUp() is complete.
+", source: http://127.0.0.1:8080/lib/live2d_display/index.min.js (1)
+[1224/161251.958:INFO:CONSOLE(1)] "[CSM][I]CubismFramework.initialize() is complete.
+", source: http://127.0.0.1:8080/lib/live2d_display/index.min.js (1)
+[1224/161251.993:INFO:CONSOLE(9)] "Live2D Cubism SDK Core Version 4.1.0", source: http://127.0.0.1:8080/lib/live2d_display/live2dcubismcore.min.js (9)
+[1224/161316.137:INFO:CONSOLE(1)] "Live2D %s 2.1.00_1", source: http://127.0.0.1:8080/lib/live2d_display/live2d.min.js (1)
+[1224/161316.137:INFO:CONSOLE(1)] "profile : Desktop", source: http://127.0.0.1:8080/lib/live2d_display/live2d.min.js (1)
+[1224/161316.137:INFO:CONSOLE(1)] "  [PROFILE_NAME] = Desktop", source: http://127.0.0.1:8080/lib/live2d_display/live2d.min.js (1)
+[1224/161316.137:INFO:CONSOLE(1)] "  [USE_ADJUST_TRANSLATION] = false", source: http://127.0.0.1:8080/lib/live2d_display/live2d.min.js (1)
+[1224/161316.137:INFO:CONSOLE(1)] "  [USE_CACHED_POLYGON_IMAGE] = false", source: http://127.0.0.1:8080/lib/live2d_display/live2d.min.js (1)
+[1224/161316.137:INFO:CONSOLE(1)] "  [EXPAND_W] = 2", source: http://127.0.0.1:8080/lib/live2d_display/live2d.min.js (1)
+[1224/161316.144:INFO:CONSOLE(305)] "%c Pio %c https://paugram.com  color: #fff; margin: 1em 0; padding: 5px 0; background: #673ab7; margin: 1em 0; padding: 5px 0; background: #efefef;", source: http://127.0.0.1:8080/lib/pio/pio.js (305)
+[1224/161316.145:INFO:CONSOLE(110)] "[Pio] Initialized container.", source: http://127.0.0.1:8080/lib/pio/pio_sdk4.js (110)
+[1224/161316.195:INFO:CONSOLE(8)] "
+ %c %c %c PixiJS 5.3.6 - ✰ WebGL 2 ✰  %c  %c  http://www.pixijs.com/  %c %c ♥%c♥%c♥ 
+
+ background: #ff66a5; padding:5px 0; background: #ff66a5; padding:5px 0; color: #ff66a5; background: #030307; padding:5px 0; background: #ff66a5; padding:5px 0; background: #ffc3dc; padding:5px 0; background: #ff66a5; padding:5px 0; color: #ff2424; background: #fff; padding:5px 0; color: #ff2424; background: #fff; padding:5px 0; color: #ff2424; background: #fff; padding:5px 0;", source: http://127.0.0.1:8080/lib/live2d_display/pixi.min.js (8)
+[1224/161316.261:INFO:CONSOLE(31)] "[Pio] Loading new model", source: http://127.0.0.1:8080/lib/pio/pio_sdk4.js (31)
+[1224/161316.287:INFO:CONSOLE(1)] "[CSM][I]Live2D Cubism Core version: 04.01.0000 (67174400)
+", source: http://127.0.0.1:8080/lib/live2d_display/index.min.js (1)
+[1224/161316.288:INFO:CONSOLE(1)] "[CSM][I]CubismFramework.startUp() is complete.
+", source: http://127.0.0.1:8080/lib/live2d_display/index.min.js (1)
+[1224/161316.288:INFO:CONSOLE(1)] "[CSM][I]CubismFramework.initialize() is complete.
+", source: http://127.0.0.1:8080/lib/live2d_display/index.min.js (1)
+[1224/161316.308:INFO:CONSOLE(9)] "Live2D Cubism SDK Core Version 4.1.0", source: http://127.0.0.1:8080/lib/live2d_display/live2dcubismcore.min.js (9)
+[1224/161445.757:INFO:CONSOLE(1)] "Live2D %s 2.1.00_1", source: http://127.0.0.1:8080/lib/live2d_display/live2d.min.js (1)
+[1224/161445.757:INFO:CONSOLE(1)] "profile : Desktop", source: http://127.0.0.1:8080/lib/live2d_display/live2d.min.js (1)
+[1224/161445.757:INFO:CONSOLE(1)] "  [PROFILE_NAME] = Desktop", source: http://127.0.0.1:8080/lib/live2d_display/live2d.min.js (1)
+[1224/161445.758:INFO:CONSOLE(1)] "  [USE_ADJUST_TRANSLATION] = false", source: http://127.0.0.1:8080/lib/live2d_display/live2d.min.js (1)
+[1224/161445.758:INFO:CONSOLE(1)] "  [USE_CACHED_POLYGON_IMAGE] = false", source: http://127.0.0.1:8080/lib/live2d_display/live2d.min.js (1)
+[1224/161445.758:INFO:CONSOLE(1)] "  [EXPAND_W] = 2", source: http://127.0.0.1:8080/lib/live2d_display/live2d.min.js (1)
+[1224/161445.766:INFO:CONSOLE(305)] "%c Pio %c https://paugram.com  color: #fff; margin: 1em 0; padding: 5px 0; background: #673ab7; margin: 1em 0; padding: 5px 0; background: #efefef;", source: http://127.0.0.1:8080/lib/pio/pio.js (305)
+[1224/161445.767:INFO:CONSOLE(110)] "[Pio] Initialized container.", source: http://127.0.0.1:8080/lib/pio/pio_sdk4.js (110)
+[1224/161445.824:INFO:CONSOLE(8)] "
+ %c %c %c PixiJS 5.3.6 - ✰ WebGL 2 ✰  %c  %c  http://www.pixijs.com/  %c %c ♥%c♥%c♥ 
+
+ background: #ff66a5; padding:5px 0; background: #ff66a5; padding:5px 0; color: #ff66a5; background: #030307; padding:5px 0; background: #ff66a5; padding:5px 0; background: #ffc3dc; padding:5px 0; background: #ff66a5; padding:5px 0; color: #ff2424; background: #fff; padding:5px 0; color: #ff2424; background: #fff; padding:5px 0; color: #ff2424; background: #fff; padding:5px 0;", source: http://127.0.0.1:8080/lib/live2d_display/pixi.min.js (8)
+[1224/161445.915:INFO:CONSOLE(31)] "[Pio] Loading new model", source: http://127.0.0.1:8080/lib/pio/pio_sdk4.js (31)
+[1224/161445.925:INFO:CONSOLE(1)] "[CSM][I]Live2D Cubism Core version: 04.01.0000 (67174400)
+", source: http://127.0.0.1:8080/lib/live2d_display/index.min.js (1)
+[1224/161445.925:INFO:CONSOLE(1)] "[CSM][I]CubismFramework.startUp() is complete.
+", source: http://127.0.0.1:8080/lib/live2d_display/index.min.js (1)
+[1224/161445.925:INFO:CONSOLE(1)] "[CSM][I]CubismFramework.initialize() is complete.
+", source: http://127.0.0.1:8080/lib/live2d_display/index.min.js (1)
+[1224/161445.977:INFO:CONSOLE(9)] "Live2D Cubism SDK Core Version 4.1.0", source: http://127.0.0.1:8080/lib/live2d_display/live2dcubismcore.min.js (9)
+[1224/161600.739:INFO:CONSOLE(1)] "Live2D %s 2.1.00_1", source: http://127.0.0.1:8080/lib/live2d_display/live2d.min.js (1)
+[1224/161600.739:INFO:CONSOLE(1)] "profile : Desktop", source: http://127.0.0.1:8080/lib/live2d_display/live2d.min.js (1)
+[1224/161600.739:INFO:CONSOLE(1)] "  [PROFILE_NAME] = Desktop", source: http://127.0.0.1:8080/lib/live2d_display/live2d.min.js (1)
+[1224/161600.739:INFO:CONSOLE(1)] "  [USE_ADJUST_TRANSLATION] = false", source: http://127.0.0.1:8080/lib/live2d_display/live2d.min.js (1)
+[1224/161600.739:INFO:CONSOLE(1)] "  [USE_CACHED_POLYGON_IMAGE] = false", source: http://127.0.0.1:8080/lib/live2d_display/live2d.min.js (1)
+[1224/161600.739:INFO:CONSOLE(1)] "  [EXPAND_W] = 2", source: http://127.0.0.1:8080/lib/live2d_display/live2d.min.js (1)
+[1224/161600.745:INFO:CONSOLE(305)] "%c Pio %c https://paugram.com  color: #fff; margin: 1em 0; padding: 5px 0; background: #673ab7; margin: 1em 0; padding: 5px 0; background: #efefef;", source: http://127.0.0.1:8080/lib/pio/pio.js (305)
+[1224/161600.746:INFO:CONSOLE(110)] "[Pio] Initialized container.", source: http://127.0.0.1:8080/lib/pio/pio_sdk4.js (110)
+[1224/161600.794:INFO:CONSOLE(8)] "
+ %c %c %c PixiJS 5.3.6 - ✰ WebGL 2 ✰  %c  %c  http://www.pixijs.com/  %c %c ♥%c♥%c♥ 
+
+ background: #ff66a5; padding:5px 0; background: #ff66a5; padding:5px 0; color: #ff66a5; background: #030307; padding:5px 0; background: #ff66a5; padding:5px 0; background: #ffc3dc; padding:5px 0; background: #ff66a5; padding:5px 0; color: #ff2424; background: #fff; padding:5px 0; color: #ff2424; background: #fff; padding:5px 0; color: #ff2424; background: #fff; padding:5px 0;", source: http://127.0.0.1:8080/lib/live2d_display/pixi.min.js (8)
+[1224/161602.180:INFO:CONSOLE(31)] "[Pio] Loading new model", source: http://127.0.0.1:8080/lib/pio/pio_sdk4.js (31)
+[1224/161602.192:INFO:CONSOLE(1)] "[CSM][I]Live2D Cubism Core version: 04.01.0000 (67174400)
+", source: http://127.0.0.1:8080/lib/live2d_display/index.min.js (1)
+[1224/161602.192:INFO:CONSOLE(1)] "[CSM][I]CubismFramework.startUp() is complete.
+", source: http://127.0.0.1:8080/lib/live2d_display/index.min.js (1)
+[1224/161602.192:INFO:CONSOLE(1)] "[CSM][I]CubismFramework.initialize() is complete.
+", source: http://127.0.0.1:8080/lib/live2d_display/index.min.js (1)
+[1224/161602.213:INFO:CONSOLE(9)] "Live2D Cubism SDK Core Version 4.1.0", source: http://127.0.0.1:8080/lib/live2d_display/live2dcubismcore.min.js (9)
+[1224/161705.731:INFO:CONSOLE(1)] "Live2D %s 2.1.00_1", source: http://127.0.0.1:8080/lib/live2d_display/live2d.min.js (1)
+[1224/161705.731:INFO:CONSOLE(1)] "profile : Desktop", source: http://127.0.0.1:8080/lib/live2d_display/live2d.min.js (1)
+[1224/161705.731:INFO:CONSOLE(1)] "  [PROFILE_NAME] = Desktop", source: http://127.0.0.1:8080/lib/live2d_display/live2d.min.js (1)
+[1224/161705.731:INFO:CONSOLE(1)] "  [USE_ADJUST_TRANSLATION] = false", source: http://127.0.0.1:8080/lib/live2d_display/live2d.min.js (1)
+[1224/161705.731:INFO:CONSOLE(1)] "  [USE_CACHED_POLYGON_IMAGE] = false", source: http://127.0.0.1:8080/lib/live2d_display/live2d.min.js (1)
+[1224/161705.731:INFO:CONSOLE(1)] "  [EXPAND_W] = 2", source: http://127.0.0.1:8080/lib/live2d_display/live2d.min.js (1)
+[1224/161705.737:INFO:CONSOLE(305)] "%c Pio %c https://paugram.com  color: #fff; margin: 1em 0; padding: 5px 0; background: #673ab7; margin: 1em 0; padding: 5px 0; background: #efefef;", source: http://127.0.0.1:8080/lib/pio/pio.js (305)
+[1224/161705.738:INFO:CONSOLE(110)] "[Pio] Initialized container.", source: http://127.0.0.1:8080/lib/pio/pio_sdk4.js (110)
+[1224/161705.787:INFO:CONSOLE(8)] "
+ %c %c %c PixiJS 5.3.6 - ✰ WebGL 2 ✰  %c  %c  http://www.pixijs.com/  %c %c ♥%c♥%c♥ 
+
+ background: #ff66a5; padding:5px 0; background: #ff66a5; padding:5px 0; color: #ff66a5; background: #030307; padding:5px 0; background: #ff66a5; padding:5px 0; background: #ffc3dc; padding:5px 0; background: #ff66a5; padding:5px 0; color: #ff2424; background: #fff; padding:5px 0; color: #ff2424; background: #fff; padding:5px 0; color: #ff2424; background: #fff; padding:5px 0;", source: http://127.0.0.1:8080/lib/live2d_display/pixi.min.js (8)
+[1224/161705.853:INFO:CONSOLE(31)] "[Pio] Loading new model", source: http://127.0.0.1:8080/lib/pio/pio_sdk4.js (31)
+[1224/161705.866:INFO:CONSOLE(1)] "[CSM][I]Live2D Cubism Core version: 04.01.0000 (67174400)
+", source: http://127.0.0.1:8080/lib/live2d_display/index.min.js (1)
+[1224/161705.866:INFO:CONSOLE(1)] "[CSM][I]CubismFramework.startUp() is complete.
+", source: http://127.0.0.1:8080/lib/live2d_display/index.min.js (1)
+[1224/161705.866:INFO:CONSOLE(1)] "[CSM][I]CubismFramework.initialize() is complete.
+", source: http://127.0.0.1:8080/lib/live2d_display/index.min.js (1)
+[1224/161705.886:INFO:CONSOLE(9)] "Live2D Cubism SDK Core Version 4.1.0", source: http://127.0.0.1:8080/lib/live2d_display/live2dcubismcore.min.js (9)
+[1224/161713.337:INFO:CONSOLE(1)] "Live2D %s 2.1.00_1", source: http://127.0.0.1:8080/lib/live2d_display/live2d.min.js (1)
+[1224/161713.337:INFO:CONSOLE(1)] "profile : Desktop", source: http://127.0.0.1:8080/lib/live2d_display/live2d.min.js (1)
+[1224/161713.337:INFO:CONSOLE(1)] "  [PROFILE_NAME] = Desktop", source: http://127.0.0.1:8080/lib/live2d_display/live2d.min.js (1)
+[1224/161713.337:INFO:CONSOLE(1)] "  [USE_ADJUST_TRANSLATION] = false", source: http://127.0.0.1:8080/lib/live2d_display/live2d.min.js (1)
+[1224/161713.337:INFO:CONSOLE(1)] "  [USE_CACHED_POLYGON_IMAGE] = false", source: http://127.0.0.1:8080/lib/live2d_display/live2d.min.js (1)
+[1224/161713.337:INFO:CONSOLE(1)] "  [EXPAND_W] = 2", source: http://127.0.0.1:8080/lib/live2d_display/live2d.min.js (1)
+[1224/161713.343:INFO:CONSOLE(305)] "%c Pio %c https://paugram.com  color: #fff; margin: 1em 0; padding: 5px 0; background: #673ab7; margin: 1em 0; padding: 5px 0; background: #efefef;", source: http://127.0.0.1:8080/lib/pio/pio.js (305)
+[1224/161713.343:INFO:CONSOLE(110)] "[Pio] Initialized container.", source: http://127.0.0.1:8080/lib/pio/pio_sdk4.js (110)
+[1224/161713.395:INFO:CONSOLE(8)] "
+ %c %c %c PixiJS 5.3.6 - ✰ WebGL 2 ✰  %c  %c  http://www.pixijs.com/  %c %c ♥%c♥%c♥ 
+
+ background: #ff66a5; padding:5px 0; background: #ff66a5; padding:5px 0; color: #ff66a5; background: #030307; padding:5px 0; background: #ff66a5; padding:5px 0; background: #ffc3dc; padding:5px 0; background: #ff66a5; padding:5px 0; color: #ff2424; background: #fff; padding:5px 0; color: #ff2424; background: #fff; padding:5px 0; color: #ff2424; background: #fff; padding:5px 0;", source: http://127.0.0.1:8080/lib/live2d_display/pixi.min.js (8)
+[1224/161713.469:INFO:CONSOLE(31)] "[Pio] Loading new model", source: http://127.0.0.1:8080/lib/pio/pio_sdk4.js (31)
+[1224/161713.480:INFO:CONSOLE(1)] "[CSM][I]Live2D Cubism Core version: 04.01.0000 (67174400)
+", source: http://127.0.0.1:8080/lib/live2d_display/index.min.js (1)
+[1224/161713.481:INFO:CONSOLE(1)] "[CSM][I]CubismFramework.startUp() is complete.
+", source: http://127.0.0.1:8080/lib/live2d_display/index.min.js (1)
+[1224/161713.481:INFO:CONSOLE(1)] "[CSM][I]CubismFramework.initialize() is complete.
+", source: http://127.0.0.1:8080/lib/live2d_display/index.min.js (1)
+[1224/161713.537:INFO:CONSOLE(9)] "Live2D Cubism SDK Core Version 4.1.0", source: http://127.0.0.1:8080/lib/live2d_display/live2dcubismcore.min.js (9)
+[1224/161750.291:INFO:CONSOLE(1)] "Live2D %s 2.1.00_1", source: http://127.0.0.1:8080/lib/live2d_display/live2d.min.js (1)
+[1224/161750.292:INFO:CONSOLE(1)] "profile : Desktop", source: http://127.0.0.1:8080/lib/live2d_display/live2d.min.js (1)
+[1224/161750.292:INFO:CONSOLE(1)] "  [PROFILE_NAME] = Desktop", source: http://127.0.0.1:8080/lib/live2d_display/live2d.min.js (1)
+[1224/161750.292:INFO:CONSOLE(1)] "  [USE_ADJUST_TRANSLATION] = false", source: http://127.0.0.1:8080/lib/live2d_display/live2d.min.js (1)
+[1224/161750.292:INFO:CONSOLE(1)] "  [USE_CACHED_POLYGON_IMAGE] = false", source: http://127.0.0.1:8080/lib/live2d_display/live2d.min.js (1)
+[1224/161750.292:INFO:CONSOLE(1)] "  [EXPAND_W] = 2", source: http://127.0.0.1:8080/lib/live2d_display/live2d.min.js (1)
+[1224/161750.299:INFO:CONSOLE(305)] "%c Pio %c https://paugram.com  color: #fff; margin: 1em 0; padding: 5px 0; background: #673ab7; margin: 1em 0; padding: 5px 0; background: #efefef;", source: http://127.0.0.1:8080/lib/pio/pio.js (305)
+[1224/161750.299:INFO:CONSOLE(110)] "[Pio] Initialized container.", source: http://127.0.0.1:8080/lib/pio/pio_sdk4.js (110)
+[1224/161750.346:INFO:CONSOLE(8)] "
+ %c %c %c PixiJS 5.3.6 - ✰ WebGL 2 ✰  %c  %c  http://www.pixijs.com/  %c %c ♥%c♥%c♥ 
+
+ background: #ff66a5; padding:5px 0; background: #ff66a5; padding:5px 0; color: #ff66a5; background: #030307; padding:5px 0; background: #ff66a5; padding:5px 0; background: #ffc3dc; padding:5px 0; background: #ff66a5; padding:5px 0; color: #ff2424; background: #fff; padding:5px 0; color: #ff2424; background: #fff; padding:5px 0; color: #ff2424; background: #fff; padding:5px 0;", source: http://127.0.0.1:8080/lib/live2d_display/pixi.min.js (8)
+[1224/161750.496:INFO:CONSOLE(31)] "[Pio] Loading new model", source: http://127.0.0.1:8080/lib/pio/pio_sdk4.js (31)
+[1224/161750.523:INFO:CONSOLE(1)] "[CSM][I]Live2D Cubism Core version: 04.01.0000 (67174400)
+", source: http://127.0.0.1:8080/lib/live2d_display/index.min.js (1)
+[1224/161750.523:INFO:CONSOLE(1)] "[CSM][I]CubismFramework.startUp() is complete.
+", source: http://127.0.0.1:8080/lib/live2d_display/index.min.js (1)
+[1224/161750.523:INFO:CONSOLE(1)] "[CSM][I]CubismFramework.initialize() is complete.
+", source: http://127.0.0.1:8080/lib/live2d_display/index.min.js (1)
+[1224/161750.544:INFO:CONSOLE(9)] "Live2D Cubism SDK Core Version 4.1.0", source: http://127.0.0.1:8080/lib/live2d_display/live2dcubismcore.min.js (9)
+[1224/161804.781:INFO:CONSOLE(47)] "12-24", source: https://www.asoulworld.com/js/init-data.js (47)
+[1224/161804.783:INFO:CONSOLE(47)] "12-24", source: https://www.asoulworld.com/js/init-data.js (47)
+[1224/161804.784:INFO:CONSOLE(47)] "12-24", source: https://www.asoulworld.com/js/init-data.js (47)
+[1224/161804.784:INFO:CONSOLE(47)] "12-24", source: https://www.asoulworld.com/js/init-data.js (47)
+[1224/161804.785:INFO:CONSOLE(47)] "12-24", source: https://www.asoulworld.com/js/init-data.js (47)
+[1224/161804.785:INFO:CONSOLE(47)] "12-24", source: https://www.asoulworld.com/js/init-data.js (47)
+[1224/161804.785:INFO:CONSOLE(178)] "clock test", source: https://www.asoulworld.com/js/init-data.js (178)
+[1224/161813.638:INFO:CONSOLE(44)] "Refused to connect to 'https://www.google-analytics.com/j/collect?v=1&_v=j96&a=999485810&t=pageview&_s=1&dl=https%3A%2F%2Fmarketplace.visualstudio.com%2Fitems%3FitemName%3DTheSecondAkari.background-withsidebar&dr=https%3A%2F%2Fwww.asoulworld.com%2F&dp=https%3A%2F%2Fmarketplace.visualstudio.com%2Fitems%3FitemName%3DTheSecondAkari.background-withsidebar&ul=en-us&de=UTF-8&dt=A-SOUL-background%20-%20Visual%20Studio%20Marketplace&sd=24-bit&sr=1920x1080&vp=1407x720&je=0&_u=YEBAAAABAAAAAC~&jid=1221961587&gjid=1907160325&cid=1176397257.1640333894&tid=UA-62780441-6&_gid=1155508014.1640333894&_r=1&gtm=2wgc10WT9XBK&z=18952177' because it violates the following Content Security Policy directive: "connect-src *.visualstudio.com wss://*.visualstudio.com *.dev.azure.com dev.azure.com wss://*.dev.azure.com wss://dev.azure.com *.vsassets.io vsassetscdn.azure.cn *.blob.core.windows.net *.github.com web.vortex.data.microsoft.com dpm.demdex.net".
+", source: https://www.google-analytics.com/analytics.js (44)
+[1224/162033.595:INFO:CONSOLE(1)] "Live2D %s 2.1.00_1", source: http://127.0.0.1:8080/lib/live2d_display/live2d.min.js (1)
+[1224/162033.595:INFO:CONSOLE(1)] "profile : Desktop", source: http://127.0.0.1:8080/lib/live2d_display/live2d.min.js (1)
+[1224/162033.595:INFO:CONSOLE(1)] "  [PROFILE_NAME] = Desktop", source: http://127.0.0.1:8080/lib/live2d_display/live2d.min.js (1)
+[1224/162033.595:INFO:CONSOLE(1)] "  [USE_ADJUST_TRANSLATION] = false", source: http://127.0.0.1:8080/lib/live2d_display/live2d.min.js (1)
+[1224/162033.595:INFO:CONSOLE(1)] "  [USE_CACHED_POLYGON_IMAGE] = false", source: http://127.0.0.1:8080/lib/live2d_display/live2d.min.js (1)
+[1224/162033.595:INFO:CONSOLE(1)] "  [EXPAND_W] = 2", source: http://127.0.0.1:8080/lib/live2d_display/live2d.min.js (1)
+[1224/162033.604:INFO:CONSOLE(305)] "%c Pio %c https://paugram.com  color: #fff; margin: 1em 0; padding: 5px 0; background: #673ab7; margin: 1em 0; padding: 5px 0; background: #efefef;", source: http://127.0.0.1:8080/lib/pio/pio.js (305)
+[1224/162033.604:INFO:CONSOLE(110)] "[Pio] Initialized container.", source: http://127.0.0.1:8080/lib/pio/pio_sdk4.js (110)
+[1224/162033.659:INFO:CONSOLE(8)] "
+ %c %c %c PixiJS 5.3.6 - ✰ WebGL 2 ✰  %c  %c  http://www.pixijs.com/  %c %c ♥%c♥%c♥ 
+
+ background: #ff66a5; padding:5px 0; background: #ff66a5; padding:5px 0; color: #ff66a5; background: #030307; padding:5px 0; background: #ff66a5; padding:5px 0; background: #ffc3dc; padding:5px 0; background: #ff66a5; padding:5px 0; color: #ff2424; background: #fff; padding:5px 0; color: #ff2424; background: #fff; padding:5px 0; color: #ff2424; background: #fff; padding:5px 0;", source: http://127.0.0.1:8080/lib/live2d_display/pixi.min.js (8)
+[1224/162033.738:INFO:CONSOLE(31)] "[Pio] Loading new model", source: http://127.0.0.1:8080/lib/pio/pio_sdk4.js (31)
+[1224/162033.758:INFO:CONSOLE(1)] "[CSM][I]Live2D Cubism Core version: 04.01.0000 (67174400)
+", source: http://127.0.0.1:8080/lib/live2d_display/index.min.js (1)
+[1224/162033.759:INFO:CONSOLE(1)] "[CSM][I]CubismFramework.startUp() is complete.
+", source: http://127.0.0.1:8080/lib/live2d_display/index.min.js (1)
+[1224/162033.759:INFO:CONSOLE(1)] "[CSM][I]CubismFramework.initialize() is complete.
+", source: http://127.0.0.1:8080/lib/live2d_display/index.min.js (1)
+[1224/162033.777:INFO:CONSOLE(9)] "Live2D Cubism SDK Core Version 4.1.0", source: http://127.0.0.1:8080/lib/live2d_display/live2dcubismcore.min.js (9)
+[1224/162112.335:INFO:CONSOLE(1)] "Live2D %s 2.1.00_1", source: http://127.0.0.1:8080/lib/live2d_display/live2d.min.js (1)
+[1224/162112.335:INFO:CONSOLE(1)] "profile : Desktop", source: http://127.0.0.1:8080/lib/live2d_display/live2d.min.js (1)
+[1224/162112.335:INFO:CONSOLE(1)] "  [PROFILE_NAME] = Desktop", source: http://127.0.0.1:8080/lib/live2d_display/live2d.min.js (1)
+[1224/162112.336:INFO:CONSOLE(1)] "  [USE_ADJUST_TRANSLATION] = false", source: http://127.0.0.1:8080/lib/live2d_display/live2d.min.js (1)
+[1224/162112.336:INFO:CONSOLE(1)] "  [USE_CACHED_POLYGON_IMAGE] = false", source: http://127.0.0.1:8080/lib/live2d_display/live2d.min.js (1)
+[1224/162112.336:INFO:CONSOLE(1)] "  [EXPAND_W] = 2", source: http://127.0.0.1:8080/lib/live2d_display/live2d.min.js (1)
+[1224/162112.344:INFO:CONSOLE(305)] "%c Pio %c https://paugram.com  color: #fff; margin: 1em 0; padding: 5px 0; background: #673ab7; margin: 1em 0; padding: 5px 0; background: #efefef;", source: http://127.0.0.1:8080/lib/pio/pio.js (305)
+[1224/162112.345:INFO:CONSOLE(110)] "[Pio] Initialized container.", source: http://127.0.0.1:8080/lib/pio/pio_sdk4.js (110)
+[1224/162112.408:INFO:CONSOLE(8)] "
+ %c %c %c PixiJS 5.3.6 - ✰ WebGL 2 ✰  %c  %c  http://www.pixijs.com/  %c %c ♥%c♥%c♥ 
+
+ background: #ff66a5; padding:5px 0; background: #ff66a5; padding:5px 0; color: #ff66a5; background: #030307; padding:5px 0; background: #ff66a5; padding:5px 0; background: #ffc3dc; padding:5px 0; background: #ff66a5; padding:5px 0; color: #ff2424; background: #fff; padding:5px 0; color: #ff2424; background: #fff; padding:5px 0; color: #ff2424; background: #fff; padding:5px 0;", source: http://127.0.0.1:8080/lib/live2d_display/pixi.min.js (8)
+[1224/162112.487:INFO:CONSOLE(31)] "[Pio] Loading new model", source: http://127.0.0.1:8080/lib/pio/pio_sdk4.js (31)
+[1224/162112.502:INFO:CONSOLE(1)] "[CSM][I]Live2D Cubism Core version: 04.01.0000 (67174400)
+", source: http://127.0.0.1:8080/lib/live2d_display/index.min.js (1)
+[1224/162112.502:INFO:CONSOLE(1)] "[CSM][I]CubismFramework.startUp() is complete.
+", source: http://127.0.0.1:8080/lib/live2d_display/index.min.js (1)
+[1224/162112.502:INFO:CONSOLE(1)] "[CSM][I]CubismFramework.initialize() is complete.
+", source: http://127.0.0.1:8080/lib/live2d_display/index.min.js (1)
+[1224/162112.518:INFO:CONSOLE(9)] "Live2D Cubism SDK Core Version 4.1.0", source: http://127.0.0.1:8080/lib/live2d_display/live2dcubismcore.min.js (9)
+[1224/162140.127:INFO:CONSOLE(1)] "Live2D %s 2.1.00_1", source: http://127.0.0.1:8080/lib/live2d_display/live2d.min.js (1)
+[1224/162140.127:INFO:CONSOLE(1)] "profile : Desktop", source: http://127.0.0.1:8080/lib/live2d_display/live2d.min.js (1)
+[1224/162140.127:INFO:CONSOLE(1)] "  [PROFILE_NAME] = Desktop", source: http://127.0.0.1:8080/lib/live2d_display/live2d.min.js (1)
+[1224/162140.128:INFO:CONSOLE(1)] "  [USE_ADJUST_TRANSLATION] = false", source: http://127.0.0.1:8080/lib/live2d_display/live2d.min.js (1)
+[1224/162140.128:INFO:CONSOLE(1)] "  [USE_CACHED_POLYGON_IMAGE] = false", source: http://127.0.0.1:8080/lib/live2d_display/live2d.min.js (1)
+[1224/162140.128:INFO:CONSOLE(1)] "  [EXPAND_W] = 2", source: http://127.0.0.1:8080/lib/live2d_display/live2d.min.js (1)
+[1224/162140.133:INFO:CONSOLE(305)] "%c Pio %c https://paugram.com  color: #fff; margin: 1em 0; padding: 5px 0; background: #673ab7; margin: 1em 0; padding: 5px 0; background: #efefef;", source: http://127.0.0.1:8080/lib/pio/pio.js (305)
+[1224/162140.133:INFO:CONSOLE(110)] "[Pio] Initialized container.", source: http://127.0.0.1:8080/lib/pio/pio_sdk4.js (110)
+[1224/162140.194:INFO:CONSOLE(8)] "
+ %c %c %c PixiJS 5.3.6 - ✰ WebGL 2 ✰  %c  %c  http://www.pixijs.com/  %c %c ♥%c♥%c♥ 
+
+ background: #ff66a5; padding:5px 0; background: #ff66a5; padding:5px 0; color: #ff66a5; background: #030307; padding:5px 0; background: #ff66a5; padding:5px 0; background: #ffc3dc; padding:5px 0; background: #ff66a5; padding:5px 0; color: #ff2424; background: #fff; padding:5px 0; color: #ff2424; background: #fff; padding:5px 0; color: #ff2424; background: #fff; padding:5px 0;", source: http://127.0.0.1:8080/lib/live2d_display/pixi.min.js (8)
+[1224/162140.269:INFO:CONSOLE(31)] "[Pio] Loading new model", source: http://127.0.0.1:8080/lib/pio/pio_sdk4.js (31)
+[1224/162140.278:INFO:CONSOLE(1)] "[CSM][I]Live2D Cubism Core version: 04.01.0000 (67174400)
+", source: http://127.0.0.1:8080/lib/live2d_display/index.min.js (1)
+[1224/162140.278:INFO:CONSOLE(1)] "[CSM][I]CubismFramework.startUp() is complete.
+", source: http://127.0.0.1:8080/lib/live2d_display/index.min.js (1)
+[1224/162140.278:INFO:CONSOLE(1)] "[CSM][I]CubismFramework.initialize() is complete.
+", source: http://127.0.0.1:8080/lib/live2d_display/index.min.js (1)
+[1224/162140.300:INFO:CONSOLE(9)] "Live2D Cubism SDK Core Version 4.1.0", source: http://127.0.0.1:8080/lib/live2d_display/live2dcubismcore.min.js (9)
+[1224/162426.552:INFO:CONSOLE(1)] "Live2D %s 2.1.00_1", source: http://127.0.0.1:8080/lib/live2d_display/live2d.min.js (1)
+[1224/162426.552:INFO:CONSOLE(1)] "profile : Desktop", source: http://127.0.0.1:8080/lib/live2d_display/live2d.min.js (1)
+[1224/162426.552:INFO:CONSOLE(1)] "  [PROFILE_NAME] = Desktop", source: http://127.0.0.1:8080/lib/live2d_display/live2d.min.js (1)
+[1224/162426.553:INFO:CONSOLE(1)] "  [USE_ADJUST_TRANSLATION] = false", source: http://127.0.0.1:8080/lib/live2d_display/live2d.min.js (1)
+[1224/162426.553:INFO:CONSOLE(1)] "  [USE_CACHED_POLYGON_IMAGE] = false", source: http://127.0.0.1:8080/lib/live2d_display/live2d.min.js (1)
+[1224/162426.553:INFO:CONSOLE(1)] "  [EXPAND_W] = 2", source: http://127.0.0.1:8080/lib/live2d_display/live2d.min.js (1)
+[1224/162426.557:INFO:CONSOLE(305)] "%c Pio %c https://paugram.com  color: #fff; margin: 1em 0; padding: 5px 0; background: #673ab7; margin: 1em 0; padding: 5px 0; background: #efefef;", source: http://127.0.0.1:8080/lib/pio/pio.js (305)
+[1224/162426.557:INFO:CONSOLE(110)] "[Pio] Initialized container.", source: http://127.0.0.1:8080/lib/pio/pio_sdk4.js (110)
+[1224/162426.605:INFO:CONSOLE(8)] "
+ %c %c %c PixiJS 5.3.6 - ✰ WebGL 2 ✰  %c  %c  http://www.pixijs.com/  %c %c ♥%c♥%c♥ 
+
+ background: #ff66a5; padding:5px 0; background: #ff66a5; padding:5px 0; color: #ff66a5; background: #030307; padding:5px 0; background: #ff66a5; padding:5px 0; background: #ffc3dc; padding:5px 0; background: #ff66a5; padding:5px 0; color: #ff2424; background: #fff; padding:5px 0; color: #ff2424; background: #fff; padding:5px 0; color: #ff2424; background: #fff; padding:5px 0;", source: http://127.0.0.1:8080/lib/live2d_display/pixi.min.js (8)
+[1224/162426.677:INFO:CONSOLE(31)] "[Pio] Loading new model", source: http://127.0.0.1:8080/lib/pio/pio_sdk4.js (31)
+[1224/162426.684:INFO:CONSOLE(1)] "[CSM][I]Live2D Cubism Core version: 04.01.0000 (67174400)
+", source: http://127.0.0.1:8080/lib/live2d_display/index.min.js (1)
+[1224/162426.684:INFO:CONSOLE(1)] "[CSM][I]CubismFramework.startUp() is complete.
+", source: http://127.0.0.1:8080/lib/live2d_display/index.min.js (1)
+[1224/162426.684:INFO:CONSOLE(1)] "[CSM][I]CubismFramework.initialize() is complete.
+", source: http://127.0.0.1:8080/lib/live2d_display/index.min.js (1)
+[1224/162426.697:INFO:CONSOLE(9)] "Live2D Cubism SDK Core Version 4.1.0", source: http://127.0.0.1:8080/lib/live2d_display/live2dcubismcore.min.js (9)
+[1224/162445.104:INFO:CONSOLE(1)] "Live2D %s 2.1.00_1", source: http://127.0.0.1:8080/lib/live2d_display/live2d.min.js (1)
+[1224/162445.104:INFO:CONSOLE(1)] "profile : Desktop", source: http://127.0.0.1:8080/lib/live2d_display/live2d.min.js (1)
+[1224/162445.104:INFO:CONSOLE(1)] "  [PROFILE_NAME] = Desktop", source: http://127.0.0.1:8080/lib/live2d_display/live2d.min.js (1)
+[1224/162445.104:INFO:CONSOLE(1)] "  [USE_ADJUST_TRANSLATION] = false", source: http://127.0.0.1:8080/lib/live2d_display/live2d.min.js (1)
+[1224/162445.105:INFO:CONSOLE(1)] "  [USE_CACHED_POLYGON_IMAGE] = false", source: http://127.0.0.1:8080/lib/live2d_display/live2d.min.js (1)
+[1224/162445.105:INFO:CONSOLE(1)] "  [EXPAND_W] = 2", source: http://127.0.0.1:8080/lib/live2d_display/live2d.min.js (1)
+[1224/162445.115:INFO:CONSOLE(305)] "%c Pio %c https://paugram.com  color: #fff; margin: 1em 0; padding: 5px 0; background: #673ab7; margin: 1em 0; padding: 5px 0; background: #efefef;", source: http://127.0.0.1:8080/lib/pio/pio.js (305)
+[1224/162445.116:INFO:CONSOLE(110)] "[Pio] Initialized container.", source: http://127.0.0.1:8080/lib/pio/pio_sdk4.js (110)
+[1224/162445.180:INFO:CONSOLE(8)] "
+ %c %c %c PixiJS 5.3.6 - ✰ WebGL 2 ✰  %c  %c  http://www.pixijs.com/  %c %c ♥%c♥%c♥ 
+
+ background: #ff66a5; padding:5px 0; background: #ff66a5; padding:5px 0; color: #ff66a5; background: #030307; padding:5px 0; background: #ff66a5; padding:5px 0; background: #ffc3dc; padding:5px 0; background: #ff66a5; padding:5px 0; color: #ff2424; background: #fff; padding:5px 0; color: #ff2424; background: #fff; padding:5px 0; color: #ff2424; background: #fff; padding:5px 0;", source: http://127.0.0.1:8080/lib/live2d_display/pixi.min.js (8)
+[1224/162445.259:INFO:CONSOLE(31)] "[Pio] Loading new model", source: http://127.0.0.1:8080/lib/pio/pio_sdk4.js (31)
+[1224/162445.270:INFO:CONSOLE(1)] "[CSM][I]Live2D Cubism Core version: 04.01.0000 (67174400)
+", source: http://127.0.0.1:8080/lib/live2d_display/index.min.js (1)
+[1224/162445.270:INFO:CONSOLE(1)] "[CSM][I]CubismFramework.startUp() is complete.
+", source: http://127.0.0.1:8080/lib/live2d_display/index.min.js (1)
+[1224/162445.270:INFO:CONSOLE(1)] "[CSM][I]CubismFramework.initialize() is complete.
+", source: http://127.0.0.1:8080/lib/live2d_display/index.min.js (1)
+[1224/162445.327:INFO:CONSOLE(9)] "Live2D Cubism SDK Core Version 4.1.0", source: http://127.0.0.1:8080/lib/live2d_display/live2dcubismcore.min.js (9)
+[1224/162454.310:INFO:CONSOLE(1)] "Live2D %s 2.1.00_1", source: http://127.0.0.1:8080/lib/live2d_display/live2d.min.js (1)
+[1224/162454.310:INFO:CONSOLE(1)] "profile : Desktop", source: http://127.0.0.1:8080/lib/live2d_display/live2d.min.js (1)
+[1224/162454.310:INFO:CONSOLE(1)] "  [PROFILE_NAME] = Desktop", source: http://127.0.0.1:8080/lib/live2d_display/live2d.min.js (1)
+[1224/162454.310:INFO:CONSOLE(1)] "  [USE_ADJUST_TRANSLATION] = false", source: http://127.0.0.1:8080/lib/live2d_display/live2d.min.js (1)
+[1224/162454.310:INFO:CONSOLE(1)] "  [USE_CACHED_POLYGON_IMAGE] = false", source: http://127.0.0.1:8080/lib/live2d_display/live2d.min.js (1)
+[1224/162454.310:INFO:CONSOLE(1)] "  [EXPAND_W] = 2", source: http://127.0.0.1:8080/lib/live2d_display/live2d.min.js (1)
+[1224/162454.317:INFO:CONSOLE(305)] "%c Pio %c https://paugram.com  color: #fff; margin: 1em 0; padding: 5px 0; background: #673ab7; margin: 1em 0; padding: 5px 0; background: #efefef;", source: http://127.0.0.1:8080/lib/pio/pio.js (305)
+[1224/162454.318:INFO:CONSOLE(110)] "[Pio] Initialized container.", source: http://127.0.0.1:8080/lib/pio/pio_sdk4.js (110)
+[1224/162454.370:INFO:CONSOLE(8)] "
+ %c %c %c PixiJS 5.3.6 - ✰ WebGL 2 ✰  %c  %c  http://www.pixijs.com/  %c %c ♥%c♥%c♥ 
+
+ background: #ff66a5; padding:5px 0; background: #ff66a5; padding:5px 0; color: #ff66a5; background: #030307; padding:5px 0; background: #ff66a5; padding:5px 0; background: #ffc3dc; padding:5px 0; background: #ff66a5; padding:5px 0; color: #ff2424; background: #fff; padding:5px 0; color: #ff2424; background: #fff; padding:5px 0; color: #ff2424; background: #fff; padding:5px 0;", source: http://127.0.0.1:8080/lib/live2d_display/pixi.min.js (8)
+[1224/162454.444:INFO:CONSOLE(31)] "[Pio] Loading new model", source: http://127.0.0.1:8080/lib/pio/pio_sdk4.js (31)
+[1224/162454.454:INFO:CONSOLE(1)] "[CSM][I]Live2D Cubism Core version: 04.01.0000 (67174400)
+", source: http://127.0.0.1:8080/lib/live2d_display/index.min.js (1)
+[1224/162454.454:INFO:CONSOLE(1)] "[CSM][I]CubismFramework.startUp() is complete.
+", source: http://127.0.0.1:8080/lib/live2d_display/index.min.js (1)
+[1224/162454.454:INFO:CONSOLE(1)] "[CSM][I]CubismFramework.initialize() is complete.
+", source: http://127.0.0.1:8080/lib/live2d_display/index.min.js (1)
+[1224/162454.560:INFO:CONSOLE(9)] "Live2D Cubism SDK Core Version 4.1.0", source: http://127.0.0.1:8080/lib/live2d_display/live2dcubismcore.min.js (9)
+[1224/162538.811:INFO:CONSOLE(1)] "Live2D %s 2.1.00_1", source: http://127.0.0.1:8080/lib/live2d_display/live2d.min.js (1)
+[1224/162538.811:INFO:CONSOLE(1)] "profile : Desktop", source: http://127.0.0.1:8080/lib/live2d_display/live2d.min.js (1)
+[1224/162538.811:INFO:CONSOLE(1)] "  [PROFILE_NAME] = Desktop", source: http://127.0.0.1:8080/lib/live2d_display/live2d.min.js (1)
+[1224/162538.811:INFO:CONSOLE(1)] "  [USE_ADJUST_TRANSLATION] = false", source: http://127.0.0.1:8080/lib/live2d_display/live2d.min.js (1)
+[1224/162538.811:INFO:CONSOLE(1)] "  [USE_CACHED_POLYGON_IMAGE] = false", source: http://127.0.0.1:8080/lib/live2d_display/live2d.min.js (1)
+[1224/162538.811:INFO:CONSOLE(1)] "  [EXPAND_W] = 2", source: http://127.0.0.1:8080/lib/live2d_display/live2d.min.js (1)
+[1224/162538.817:INFO:CONSOLE(305)] "%c Pio %c https://paugram.com  color: #fff; margin: 1em 0; padding: 5px 0; background: #673ab7; margin: 1em 0; padding: 5px 0; background: #efefef;", source: http://127.0.0.1:8080/lib/pio/pio.js (305)
+[1224/162538.818:INFO:CONSOLE(110)] "[Pio] Initialized container.", source: http://127.0.0.1:8080/lib/pio/pio_sdk4.js (110)
+[1224/162538.876:INFO:CONSOLE(8)] "
+ %c %c %c PixiJS 5.3.6 - ✰ WebGL 2 ✰  %c  %c  http://www.pixijs.com/  %c %c ♥%c♥%c♥ 
+
+ background: #ff66a5; padding:5px 0; background: #ff66a5; padding:5px 0; color: #ff66a5; background: #030307; padding:5px 0; background: #ff66a5; padding:5px 0; background: #ffc3dc; padding:5px 0; background: #ff66a5; padding:5px 0; color: #ff2424; background: #fff; padding:5px 0; color: #ff2424; background: #fff; padding:5px 0; color: #ff2424; background: #fff; padding:5px 0;", source: http://127.0.0.1:8080/lib/live2d_display/pixi.min.js (8)
+[1224/162538.946:INFO:CONSOLE(31)] "[Pio] Loading new model", source: http://127.0.0.1:8080/lib/pio/pio_sdk4.js (31)
+[1224/162538.969:INFO:CONSOLE(1)] "[CSM][I]Live2D Cubism Core version: 04.01.0000 (67174400)
+", source: http://127.0.0.1:8080/lib/live2d_display/index.min.js (1)
+[1224/162538.970:INFO:CONSOLE(1)] "[CSM][I]CubismFramework.startUp() is complete.
+", source: http://127.0.0.1:8080/lib/live2d_display/index.min.js (1)
+[1224/162538.970:INFO:CONSOLE(1)] "[CSM][I]CubismFramework.initialize() is complete.
+", source: http://127.0.0.1:8080/lib/live2d_display/index.min.js (1)
+[1224/162539.007:INFO:CONSOLE(9)] "Live2D Cubism SDK Core Version 4.1.0", source: http://127.0.0.1:8080/lib/live2d_display/live2dcubismcore.min.js (9)
+[1224/162620.327:INFO:CONSOLE(1)] "Live2D %s 2.1.00_1", source: http://127.0.0.1:8080/lib/live2d_display/live2d.min.js (1)
+[1224/162620.327:INFO:CONSOLE(1)] "profile : Desktop", source: http://127.0.0.1:8080/lib/live2d_display/live2d.min.js (1)
+[1224/162620.327:INFO:CONSOLE(1)] "  [PROFILE_NAME] = Desktop", source: http://127.0.0.1:8080/lib/live2d_display/live2d.min.js (1)
+[1224/162620.328:INFO:CONSOLE(1)] "  [USE_ADJUST_TRANSLATION] = false", source: http://127.0.0.1:8080/lib/live2d_display/live2d.min.js (1)
+[1224/162620.328:INFO:CONSOLE(1)] "  [USE_CACHED_POLYGON_IMAGE] = false", source: http://127.0.0.1:8080/lib/live2d_display/live2d.min.js (1)
+[1224/162620.328:INFO:CONSOLE(1)] "  [EXPAND_W] = 2", source: http://127.0.0.1:8080/lib/live2d_display/live2d.min.js (1)
+[1224/162620.334:INFO:CONSOLE(305)] "%c Pio %c https://paugram.com  color: #fff; margin: 1em 0; padding: 5px 0; background: #673ab7; margin: 1em 0; padding: 5px 0; background: #efefef;", source: http://127.0.0.1:8080/lib/pio/pio.js (305)
+[1224/162620.335:INFO:CONSOLE(110)] "[Pio] Initialized container.", source: http://127.0.0.1:8080/lib/pio/pio_sdk4.js (110)
+[1224/162620.400:INFO:CONSOLE(8)] "
+ %c %c %c PixiJS 5.3.6 - ✰ WebGL 2 ✰  %c  %c  http://www.pixijs.com/  %c %c ♥%c♥%c♥ 
+
+ background: #ff66a5; padding:5px 0; background: #ff66a5; padding:5px 0; color: #ff66a5; background: #030307; padding:5px 0; background: #ff66a5; padding:5px 0; background: #ffc3dc; padding:5px 0; background: #ff66a5; padding:5px 0; color: #ff2424; background: #fff; padding:5px 0; color: #ff2424; background: #fff; padding:5px 0; color: #ff2424; background: #fff; padding:5px 0;", source: http://127.0.0.1:8080/lib/live2d_display/pixi.min.js (8)
+[1224/162620.470:INFO:CONSOLE(31)] "[Pio] Loading new model", source: http://127.0.0.1:8080/lib/pio/pio_sdk4.js (31)
+[1224/162620.481:INFO:CONSOLE(1)] "[CSM][I]Live2D Cubism Core version: 04.01.0000 (67174400)
+", source: http://127.0.0.1:8080/lib/live2d_display/index.min.js (1)
+[1224/162620.482:INFO:CONSOLE(1)] "[CSM][I]CubismFramework.startUp() is complete.
+", source: http://127.0.0.1:8080/lib/live2d_display/index.min.js (1)
+[1224/162620.482:INFO:CONSOLE(1)] "[CSM][I]CubismFramework.initialize() is complete.
+", source: http://127.0.0.1:8080/lib/live2d_display/index.min.js (1)
+[1224/162620.501:INFO:CONSOLE(9)] "Live2D Cubism SDK Core Version 4.1.0", source: http://127.0.0.1:8080/lib/live2d_display/live2dcubismcore.min.js (9)
+[1224/162744.918:INFO:CONSOLE(1)] "Live2D %s 2.1.00_1", source: http://127.0.0.1:8080/lib/live2d_display/live2d.min.js (1)
+[1224/162744.918:INFO:CONSOLE(1)] "profile : Desktop", source: http://127.0.0.1:8080/lib/live2d_display/live2d.min.js (1)
+[1224/162744.918:INFO:CONSOLE(1)] "  [PROFILE_NAME] = Desktop", source: http://127.0.0.1:8080/lib/live2d_display/live2d.min.js (1)
+[1224/162744.918:INFO:CONSOLE(1)] "  [USE_ADJUST_TRANSLATION] = false", source: http://127.0.0.1:8080/lib/live2d_display/live2d.min.js (1)
+[1224/162744.918:INFO:CONSOLE(1)] "  [USE_CACHED_POLYGON_IMAGE] = false", source: http://127.0.0.1:8080/lib/live2d_display/live2d.min.js (1)
+[1224/162744.918:INFO:CONSOLE(1)] "  [EXPAND_W] = 2", source: http://127.0.0.1:8080/lib/live2d_display/live2d.min.js (1)
+[1224/162744.924:INFO:CONSOLE(305)] "%c Pio %c https://paugram.com  color: #fff; margin: 1em 0; padding: 5px 0; background: #673ab7; margin: 1em 0; padding: 5px 0; background: #efefef;", source: http://127.0.0.1:8080/lib/pio/pio.js (305)
+[1224/162744.925:INFO:CONSOLE(110)] "[Pio] Initialized container.", source: http://127.0.0.1:8080/lib/pio/pio_sdk4.js (110)
+[1224/162744.975:INFO:CONSOLE(8)] "
+ %c %c %c PixiJS 5.3.6 - ✰ WebGL 2 ✰  %c  %c  http://www.pixijs.com/  %c %c ♥%c♥%c♥ 
+
+ background: #ff66a5; padding:5px 0; background: #ff66a5; padding:5px 0; color: #ff66a5; background: #030307; padding:5px 0; background: #ff66a5; padding:5px 0; background: #ffc3dc; padding:5px 0; background: #ff66a5; padding:5px 0; color: #ff2424; background: #fff; padding:5px 0; color: #ff2424; background: #fff; padding:5px 0; color: #ff2424; background: #fff; padding:5px 0;", source: http://127.0.0.1:8080/lib/live2d_display/pixi.min.js (8)
+[1224/162745.047:INFO:CONSOLE(31)] "[Pio] Loading new model", source: http://127.0.0.1:8080/lib/pio/pio_sdk4.js (31)
+[1224/162745.078:INFO:CONSOLE(1)] "[CSM][I]Live2D Cubism Core version: 04.01.0000 (67174400)
+", source: http://127.0.0.1:8080/lib/live2d_display/index.min.js (1)
+[1224/162745.078:INFO:CONSOLE(1)] "[CSM][I]CubismFramework.startUp() is complete.
+", source: http://127.0.0.1:8080/lib/live2d_display/index.min.js (1)
+[1224/162745.078:INFO:CONSOLE(1)] "[CSM][I]CubismFramework.initialize() is complete.
+", source: http://127.0.0.1:8080/lib/live2d_display/index.min.js (1)
+[1224/162745.106:INFO:CONSOLE(9)] "Live2D Cubism SDK Core Version 4.1.0", source: http://127.0.0.1:8080/lib/live2d_display/live2dcubismcore.min.js (9)
+[1224/162804.189:INFO:CONSOLE(1)] "Live2D %s 2.1.00_1", source: http://127.0.0.1:8080/lib/live2d_display/live2d.min.js (1)
+[1224/162804.190:INFO:CONSOLE(1)] "profile : Desktop", source: http://127.0.0.1:8080/lib/live2d_display/live2d.min.js (1)
+[1224/162804.190:INFO:CONSOLE(1)] "  [PROFILE_NAME] = Desktop", source: http://127.0.0.1:8080/lib/live2d_display/live2d.min.js (1)
+[1224/162804.190:INFO:CONSOLE(1)] "  [USE_ADJUST_TRANSLATION] = false", source: http://127.0.0.1:8080/lib/live2d_display/live2d.min.js (1)
+[1224/162804.190:INFO:CONSOLE(1)] "  [USE_CACHED_POLYGON_IMAGE] = false", source: http://127.0.0.1:8080/lib/live2d_display/live2d.min.js (1)
+[1224/162804.190:INFO:CONSOLE(1)] "  [EXPAND_W] = 2", source: http://127.0.0.1:8080/lib/live2d_display/live2d.min.js (1)
+[1224/162804.197:INFO:CONSOLE(305)] "%c Pio %c https://paugram.com  color: #fff; margin: 1em 0; padding: 5px 0; background: #673ab7; margin: 1em 0; padding: 5px 0; background: #efefef;", source: http://127.0.0.1:8080/lib/pio/pio.js (305)
+[1224/162804.198:INFO:CONSOLE(110)] "[Pio] Initialized container.", source: http://127.0.0.1:8080/lib/pio/pio_sdk4.js (110)
+[1224/162804.262:INFO:CONSOLE(8)] "
+ %c %c %c PixiJS 5.3.6 - ✰ WebGL 2 ✰  %c  %c  http://www.pixijs.com/  %c %c ♥%c♥%c♥ 
+
+ background: #ff66a5; padding:5px 0; background: #ff66a5; padding:5px 0; color: #ff66a5; background: #030307; padding:5px 0; background: #ff66a5; padding:5px 0; background: #ffc3dc; padding:5px 0; background: #ff66a5; padding:5px 0; color: #ff2424; background: #fff; padding:5px 0; color: #ff2424; background: #fff; padding:5px 0; color: #ff2424; background: #fff; padding:5px 0;", source: http://127.0.0.1:8080/lib/live2d_display/pixi.min.js (8)
+[1224/162804.329:INFO:CONSOLE(31)] "[Pio] Loading new model", source: http://127.0.0.1:8080/lib/pio/pio_sdk4.js (31)
+[1224/162804.362:INFO:CONSOLE(1)] "[CSM][I]Live2D Cubism Core version: 04.01.0000 (67174400)
+", source: http://127.0.0.1:8080/lib/live2d_display/index.min.js (1)
+[1224/162804.363:INFO:CONSOLE(1)] "[CSM][I]CubismFramework.startUp() is complete.
+", source: http://127.0.0.1:8080/lib/live2d_display/index.min.js (1)
+[1224/162804.363:INFO:CONSOLE(1)] "[CSM][I]CubismFramework.initialize() is complete.
+", source: http://127.0.0.1:8080/lib/live2d_display/index.min.js (1)
+[1224/162804.402:INFO:CONSOLE(9)] "Live2D Cubism SDK Core Version 4.1.0", source: http://127.0.0.1:8080/lib/live2d_display/live2dcubismcore.min.js (9)
+[1224/163123.750:INFO:CONSOLE(1)] "Live2D %s 2.1.00_1", source: http://127.0.0.1:8080/lib/live2d_display/live2d.min.js (1)
+[1224/163123.751:INFO:CONSOLE(1)] "profile : Desktop", source: http://127.0.0.1:8080/lib/live2d_display/live2d.min.js (1)
+[1224/163123.751:INFO:CONSOLE(1)] "  [PROFILE_NAME] = Desktop", source: http://127.0.0.1:8080/lib/live2d_display/live2d.min.js (1)
+[1224/163123.751:INFO:CONSOLE(1)] "  [USE_ADJUST_TRANSLATION] = false", source: http://127.0.0.1:8080/lib/live2d_display/live2d.min.js (1)
+[1224/163123.751:INFO:CONSOLE(1)] "  [USE_CACHED_POLYGON_IMAGE] = false", source: http://127.0.0.1:8080/lib/live2d_display/live2d.min.js (1)
+[1224/163123.751:INFO:CONSOLE(1)] "  [EXPAND_W] = 2", source: http://127.0.0.1:8080/lib/live2d_display/live2d.min.js (1)
+[1224/163123.759:INFO:CONSOLE(305)] "%c Pio %c https://paugram.com  color: #fff; margin: 1em 0; padding: 5px 0; background: #673ab7; margin: 1em 0; padding: 5px 0; background: #efefef;", source: http://127.0.0.1:8080/lib/pio/pio.js (305)
+[1224/163123.760:INFO:CONSOLE(110)] "[Pio] Initialized container.", source: http://127.0.0.1:8080/lib/pio/pio_sdk4.js (110)
+[1224/163123.812:INFO:CONSOLE(8)] "
+ %c %c %c PixiJS 5.3.6 - ✰ WebGL 2 ✰  %c  %c  http://www.pixijs.com/  %c %c ♥%c♥%c♥ 
+
+ background: #ff66a5; padding:5px 0; background: #ff66a5; padding:5px 0; color: #ff66a5; background: #030307; padding:5px 0; background: #ff66a5; padding:5px 0; background: #ffc3dc; padding:5px 0; background: #ff66a5; padding:5px 0; color: #ff2424; background: #fff; padding:5px 0; color: #ff2424; background: #fff; padding:5px 0; color: #ff2424; background: #fff; padding:5px 0;", source: http://127.0.0.1:8080/lib/live2d_display/pixi.min.js (8)
+[1224/163123.879:INFO:CONSOLE(31)] "[Pio] Loading new model", source: http://127.0.0.1:8080/lib/pio/pio_sdk4.js (31)
+[1224/163123.905:INFO:CONSOLE(1)] "[CSM][I]Live2D Cubism Core version: 04.01.0000 (67174400)
+", source: http://127.0.0.1:8080/lib/live2d_display/index.min.js (1)
+[1224/163123.906:INFO:CONSOLE(1)] "[CSM][I]CubismFramework.startUp() is complete.
+", source: http://127.0.0.1:8080/lib/live2d_display/index.min.js (1)
+[1224/163123.906:INFO:CONSOLE(1)] "[CSM][I]CubismFramework.initialize() is complete.
+", source: http://127.0.0.1:8080/lib/live2d_display/index.min.js (1)
+[1224/163123.920:INFO:CONSOLE(9)] "Live2D Cubism SDK Core Version 4.1.0", source: http://127.0.0.1:8080/lib/live2d_display/live2dcubismcore.min.js (9)
+[1224/163248.457:INFO:CONSOLE(1)] "Live2D %s 2.1.00_1", source: http://127.0.0.1:8080/lib/live2d_display/live2d.min.js (1)
+[1224/163248.458:INFO:CONSOLE(1)] "profile : Desktop", source: http://127.0.0.1:8080/lib/live2d_display/live2d.min.js (1)
+[1224/163248.458:INFO:CONSOLE(1)] "  [PROFILE_NAME] = Desktop", source: http://127.0.0.1:8080/lib/live2d_display/live2d.min.js (1)
+[1224/163248.458:INFO:CONSOLE(1)] "  [USE_ADJUST_TRANSLATION] = false", source: http://127.0.0.1:8080/lib/live2d_display/live2d.min.js (1)
+[1224/163248.458:INFO:CONSOLE(1)] "  [USE_CACHED_POLYGON_IMAGE] = false", source: http://127.0.0.1:8080/lib/live2d_display/live2d.min.js (1)
+[1224/163248.458:INFO:CONSOLE(1)] "  [EXPAND_W] = 2", source: http://127.0.0.1:8080/lib/live2d_display/live2d.min.js (1)
+[1224/163248.465:INFO:CONSOLE(305)] "%c Pio %c https://paugram.com  color: #fff; margin: 1em 0; padding: 5px 0; background: #673ab7; margin: 1em 0; padding: 5px 0; background: #efefef;", source: http://127.0.0.1:8080/lib/pio/pio.js (305)
+[1224/163248.466:INFO:CONSOLE(110)] "[Pio] Initialized container.", source: http://127.0.0.1:8080/lib/pio/pio_sdk4.js (110)
+[1224/163248.526:INFO:CONSOLE(8)] "
+ %c %c %c PixiJS 5.3.6 - ✰ WebGL 2 ✰  %c  %c  http://www.pixijs.com/  %c %c ♥%c♥%c♥ 
+
+ background: #ff66a5; padding:5px 0; background: #ff66a5; padding:5px 0; color: #ff66a5; background: #030307; padding:5px 0; background: #ff66a5; padding:5px 0; background: #ffc3dc; padding:5px 0; background: #ff66a5; padding:5px 0; color: #ff2424; background: #fff; padding:5px 0; color: #ff2424; background: #fff; padding:5px 0; color: #ff2424; background: #fff; padding:5px 0;", source: http://127.0.0.1:8080/lib/live2d_display/pixi.min.js (8)
+[1224/163248.595:INFO:CONSOLE(31)] "[Pio] Loading new model", source: http://127.0.0.1:8080/lib/pio/pio_sdk4.js (31)
+[1224/163248.637:INFO:CONSOLE(1)] "[CSM][I]Live2D Cubism Core version: 04.01.0000 (67174400)
+", source: http://127.0.0.1:8080/lib/live2d_display/index.min.js (1)
+[1224/163248.638:INFO:CONSOLE(1)] "[CSM][I]CubismFramework.startUp() is complete.
+", source: http://127.0.0.1:8080/lib/live2d_display/index.min.js (1)
+[1224/163248.638:INFO:CONSOLE(1)] "[CSM][I]CubismFramework.initialize() is complete.
+", source: http://127.0.0.1:8080/lib/live2d_display/index.min.js (1)
+[1224/163248.686:INFO:CONSOLE(9)] "Live2D Cubism SDK Core Version 4.1.0", source: http://127.0.0.1:8080/lib/live2d_display/live2dcubismcore.min.js (9)
+[1224/163419.049:INFO:CONSOLE(1)] "Live2D %s 2.1.00_1", source: http://127.0.0.1:8080/lib/live2d_display/live2d.min.js (1)
+[1224/163419.049:INFO:CONSOLE(1)] "profile : Desktop", source: http://127.0.0.1:8080/lib/live2d_display/live2d.min.js (1)
+[1224/163419.050:INFO:CONSOLE(1)] "  [PROFILE_NAME] = Desktop", source: http://127.0.0.1:8080/lib/live2d_display/live2d.min.js (1)
+[1224/163419.050:INFO:CONSOLE(1)] "  [USE_ADJUST_TRANSLATION] = false", source: http://127.0.0.1:8080/lib/live2d_display/live2d.min.js (1)
+[1224/163419.050:INFO:CONSOLE(1)] "  [USE_CACHED_POLYGON_IMAGE] = false", source: http://127.0.0.1:8080/lib/live2d_display/live2d.min.js (1)
+[1224/163419.050:INFO:CONSOLE(1)] "  [EXPAND_W] = 2", source: http://127.0.0.1:8080/lib/live2d_display/live2d.min.js (1)
+[1224/163419.055:INFO:CONSOLE(305)] "%c Pio %c https://paugram.com  color: #fff; margin: 1em 0; padding: 5px 0; background: #673ab7; margin: 1em 0; padding: 5px 0; background: #efefef;", source: http://127.0.0.1:8080/lib/pio/pio.js (305)
+[1224/163419.056:INFO:CONSOLE(110)] "[Pio] Initialized container.", source: http://127.0.0.1:8080/lib/pio/pio_sdk4.js (110)
+[1224/163419.102:INFO:CONSOLE(8)] "
+ %c %c %c PixiJS 5.3.6 - ✰ WebGL 2 ✰  %c  %c  http://www.pixijs.com/  %c %c ♥%c♥%c♥ 
+
+ background: #ff66a5; padding:5px 0; background: #ff66a5; padding:5px 0; color: #ff66a5; background: #030307; padding:5px 0; background: #ff66a5; padding:5px 0; background: #ffc3dc; padding:5px 0; background: #ff66a5; padding:5px 0; color: #ff2424; background: #fff; padding:5px 0; color: #ff2424; background: #fff; padding:5px 0; color: #ff2424; background: #fff; padding:5px 0;", source: http://127.0.0.1:8080/lib/live2d_display/pixi.min.js (8)
+[1224/163419.175:INFO:CONSOLE(31)] "[Pio] Loading new model", source: http://127.0.0.1:8080/lib/pio/pio_sdk4.js (31)
+[1224/163419.195:INFO:CONSOLE(1)] "[CSM][I]Live2D Cubism Core version: 04.01.0000 (67174400)
+", source: http://127.0.0.1:8080/lib/live2d_display/index.min.js (1)
+[1224/163419.195:INFO:CONSOLE(1)] "[CSM][I]CubismFramework.startUp() is complete.
+", source: http://127.0.0.1:8080/lib/live2d_display/index.min.js (1)
+[1224/163419.195:INFO:CONSOLE(1)] "[CSM][I]CubismFramework.initialize() is complete.
+", source: http://127.0.0.1:8080/lib/live2d_display/index.min.js (1)
+[1224/163419.233:INFO:CONSOLE(9)] "Live2D Cubism SDK Core Version 4.1.0", source: http://127.0.0.1:8080/lib/live2d_display/live2dcubismcore.min.js (9)
+[1224/163446.011:INFO:CONSOLE(1)] "Live2D %s 2.1.00_1", source: http://127.0.0.1:8080/lib/live2d_display/live2d.min.js (1)
+[1224/163446.011:INFO:CONSOLE(1)] "profile : Desktop", source: http://127.0.0.1:8080/lib/live2d_display/live2d.min.js (1)
+[1224/163446.011:INFO:CONSOLE(1)] "  [PROFILE_NAME] = Desktop", source: http://127.0.0.1:8080/lib/live2d_display/live2d.min.js (1)
+[1224/163446.011:INFO:CONSOLE(1)] "  [USE_ADJUST_TRANSLATION] = false", source: http://127.0.0.1:8080/lib/live2d_display/live2d.min.js (1)
+[1224/163446.011:INFO:CONSOLE(1)] "  [USE_CACHED_POLYGON_IMAGE] = false", source: http://127.0.0.1:8080/lib/live2d_display/live2d.min.js (1)
+[1224/163446.011:INFO:CONSOLE(1)] "  [EXPAND_W] = 2", source: http://127.0.0.1:8080/lib/live2d_display/live2d.min.js (1)
+[1224/163446.022:INFO:CONSOLE(305)] "%c Pio %c https://paugram.com  color: #fff; margin: 1em 0; padding: 5px 0; background: #673ab7; margin: 1em 0; padding: 5px 0; background: #efefef;", source: http://127.0.0.1:8080/lib/pio/pio.js (305)
+[1224/163446.023:INFO:CONSOLE(110)] "[Pio] Initialized container.", source: http://127.0.0.1:8080/lib/pio/pio_sdk4.js (110)
+[1224/163446.082:INFO:CONSOLE(8)] "
+ %c %c %c PixiJS 5.3.6 - ✰ WebGL 2 ✰  %c  %c  http://www.pixijs.com/  %c %c ♥%c♥%c♥ 
+
+ background: #ff66a5; padding:5px 0; background: #ff66a5; padding:5px 0; color: #ff66a5; background: #030307; padding:5px 0; background: #ff66a5; padding:5px 0; background: #ffc3dc; padding:5px 0; background: #ff66a5; padding:5px 0; color: #ff2424; background: #fff; padding:5px 0; color: #ff2424; background: #fff; padding:5px 0; color: #ff2424; background: #fff; padding:5px 0;", source: http://127.0.0.1:8080/lib/live2d_display/pixi.min.js (8)
+[1224/163446.153:INFO:CONSOLE(31)] "[Pio] Loading new model", source: http://127.0.0.1:8080/lib/pio/pio_sdk4.js (31)
+[1224/163446.228:INFO:CONSOLE(1)] "[CSM][I]Live2D Cubism Core version: 04.01.0000 (67174400)
+", source: http://127.0.0.1:8080/lib/live2d_display/index.min.js (1)
+[1224/163446.228:INFO:CONSOLE(1)] "[CSM][I]CubismFramework.startUp() is complete.
+", source: http://127.0.0.1:8080/lib/live2d_display/index.min.js (1)
+[1224/163446.228:INFO:CONSOLE(1)] "[CSM][I]CubismFramework.initialize() is complete.
+", source: http://127.0.0.1:8080/lib/live2d_display/index.min.js (1)
+[1224/163446.247:INFO:CONSOLE(9)] "Live2D Cubism SDK Core Version 4.1.0", source: http://127.0.0.1:8080/lib/live2d_display/live2dcubismcore.min.js (9)
+[1224/163653.870:INFO:CONSOLE(1)] "Live2D %s 2.1.00_1", source: http://127.0.0.1:8080/lib/live2d_display/live2d.min.js (1)
+[1224/163653.871:INFO:CONSOLE(1)] "profile : Desktop", source: http://127.0.0.1:8080/lib/live2d_display/live2d.min.js (1)
+[1224/163653.871:INFO:CONSOLE(1)] "  [PROFILE_NAME] = Desktop", source: http://127.0.0.1:8080/lib/live2d_display/live2d.min.js (1)
+[1224/163653.871:INFO:CONSOLE(1)] "  [USE_ADJUST_TRANSLATION] = false", source: http://127.0.0.1:8080/lib/live2d_display/live2d.min.js (1)
+[1224/163653.871:INFO:CONSOLE(1)] "  [USE_CACHED_POLYGON_IMAGE] = false", source: http://127.0.0.1:8080/lib/live2d_display/live2d.min.js (1)
+[1224/163653.871:INFO:CONSOLE(1)] "  [EXPAND_W] = 2", source: http://127.0.0.1:8080/lib/live2d_display/live2d.min.js (1)
+[1224/163653.878:INFO:CONSOLE(305)] "%c Pio %c https://paugram.com  color: #fff; margin: 1em 0; padding: 5px 0; background: #673ab7; margin: 1em 0; padding: 5px 0; background: #efefef;", source: http://127.0.0.1:8080/lib/pio/pio.js (305)
+[1224/163653.879:INFO:CONSOLE(110)] "[Pio] Initialized container.", source: http://127.0.0.1:8080/lib/pio/pio_sdk4.js (110)
+[1224/163653.936:INFO:CONSOLE(8)] "
+ %c %c %c PixiJS 5.3.6 - ✰ WebGL 2 ✰  %c  %c  http://www.pixijs.com/  %c %c ♥%c♥%c♥ 
+
+ background: #ff66a5; padding:5px 0; background: #ff66a5; padding:5px 0; color: #ff66a5; background: #030307; padding:5px 0; background: #ff66a5; padding:5px 0; background: #ffc3dc; padding:5px 0; background: #ff66a5; padding:5px 0; color: #ff2424; background: #fff; padding:5px 0; color: #ff2424; background: #fff; padding:5px 0; color: #ff2424; background: #fff; padding:5px 0;", source: http://127.0.0.1:8080/lib/live2d_display/pixi.min.js (8)
+[1224/163654.005:INFO:CONSOLE(31)] "[Pio] Loading new model", source: http://127.0.0.1:8080/lib/pio/pio_sdk4.js (31)
+[1224/163654.015:INFO:CONSOLE(1)] "[CSM][I]Live2D Cubism Core version: 04.01.0000 (67174400)
+", source: http://127.0.0.1:8080/lib/live2d_display/index.min.js (1)
+[1224/163654.016:INFO:CONSOLE(1)] "[CSM][I]CubismFramework.startUp() is complete.
+", source: http://127.0.0.1:8080/lib/live2d_display/index.min.js (1)
+[1224/163654.016:INFO:CONSOLE(1)] "[CSM][I]CubismFramework.initialize() is complete.
+", source: http://127.0.0.1:8080/lib/live2d_display/index.min.js (1)
+[1224/163654.053:INFO:CONSOLE(9)] "Live2D Cubism SDK Core Version 4.1.0", source: http://127.0.0.1:8080/lib/live2d_display/live2dcubismcore.min.js (9)
+[1224/163744.927:INFO:CONSOLE(1)] "Live2D %s 2.1.00_1", source: http://127.0.0.1:8080/lib/live2d_display/live2d.min.js (1)
+[1224/163744.927:INFO:CONSOLE(1)] "profile : Desktop", source: http://127.0.0.1:8080/lib/live2d_display/live2d.min.js (1)
+[1224/163744.927:INFO:CONSOLE(1)] "  [PROFILE_NAME] = Desktop", source: http://127.0.0.1:8080/lib/live2d_display/live2d.min.js (1)
+[1224/163744.927:INFO:CONSOLE(1)] "  [USE_ADJUST_TRANSLATION] = false", source: http://127.0.0.1:8080/lib/live2d_display/live2d.min.js (1)
+[1224/163744.927:INFO:CONSOLE(1)] "  [USE_CACHED_POLYGON_IMAGE] = false", source: http://127.0.0.1:8080/lib/live2d_display/live2d.min.js (1)
+[1224/163744.927:INFO:CONSOLE(1)] "  [EXPAND_W] = 2", source: http://127.0.0.1:8080/lib/live2d_display/live2d.min.js (1)
+[1224/163744.934:INFO:CONSOLE(305)] "%c Pio %c https://paugram.com  color: #fff; margin: 1em 0; padding: 5px 0; background: #673ab7; margin: 1em 0; padding: 5px 0; background: #efefef;", source: http://127.0.0.1:8080/lib/pio/pio.js (305)
+[1224/163744.934:INFO:CONSOLE(110)] "[Pio] Initialized container.", source: http://127.0.0.1:8080/lib/pio/pio_sdk4.js (110)
+[1224/163744.983:INFO:CONSOLE(8)] "
+ %c %c %c PixiJS 5.3.6 - ✰ WebGL 2 ✰  %c  %c  http://www.pixijs.com/  %c %c ♥%c♥%c♥ 
+
+ background: #ff66a5; padding:5px 0; background: #ff66a5; padding:5px 0; color: #ff66a5; background: #030307; padding:5px 0; background: #ff66a5; padding:5px 0; background: #ffc3dc; padding:5px 0; background: #ff66a5; padding:5px 0; color: #ff2424; background: #fff; padding:5px 0; color: #ff2424; background: #fff; padding:5px 0; color: #ff2424; background: #fff; padding:5px 0;", source: http://127.0.0.1:8080/lib/live2d_display/pixi.min.js (8)
+[1224/163745.055:INFO:CONSOLE(31)] "[Pio] Loading new model", source: http://127.0.0.1:8080/lib/pio/pio_sdk4.js (31)
+[1224/163745.066:INFO:CONSOLE(1)] "[CSM][I]Live2D Cubism Core version: 04.01.0000 (67174400)
+", source: http://127.0.0.1:8080/lib/live2d_display/index.min.js (1)
+[1224/163745.066:INFO:CONSOLE(1)] "[CSM][I]CubismFramework.startUp() is complete.
+", source: http://127.0.0.1:8080/lib/live2d_display/index.min.js (1)
+[1224/163745.067:INFO:CONSOLE(1)] "[CSM][I]CubismFramework.initialize() is complete.
+", source: http://127.0.0.1:8080/lib/live2d_display/index.min.js (1)
+[1224/163745.113:INFO:CONSOLE(9)] "Live2D Cubism SDK Core Version 4.1.0", source: http://127.0.0.1:8080/lib/live2d_display/live2dcubismcore.min.js (9)
+[1224/163944.327:ERROR:gpu_init.cc(457)] Passthrough is not supported, GL is disabled, ANGLE is 
+[1224/170201.749:INFO:CONSOLE(1)] "Live2D %s 2.1.00_1", source: http://127.0.0.1:8080/lib/live2d_display/live2d.min.js (1)
+[1224/170201.749:INFO:CONSOLE(1)] "profile : Desktop", source: http://127.0.0.1:8080/lib/live2d_display/live2d.min.js (1)
+[1224/170201.749:INFO:CONSOLE(1)] "  [PROFILE_NAME] = Desktop", source: http://127.0.0.1:8080/lib/live2d_display/live2d.min.js (1)
+[1224/170201.749:INFO:CONSOLE(1)] "  [USE_ADJUST_TRANSLATION] = false", source: http://127.0.0.1:8080/lib/live2d_display/live2d.min.js (1)
+[1224/170201.749:INFO:CONSOLE(1)] "  [USE_CACHED_POLYGON_IMAGE] = false", source: http://127.0.0.1:8080/lib/live2d_display/live2d.min.js (1)
+[1224/170201.749:INFO:CONSOLE(1)] "  [EXPAND_W] = 2", source: http://127.0.0.1:8080/lib/live2d_display/live2d.min.js (1)
+[1224/170201.756:INFO:CONSOLE(306)] "%c Pio %c https://paugram.com  color: #fff; margin: 1em 0; padding: 5px 0; background: #673ab7; margin: 1em 0; padding: 5px 0; background: #efefef;", source: http://127.0.0.1:8080/lib/pio/pio.js (306)
+[1224/170201.756:INFO:CONSOLE(110)] "[Pio] Initialized container.", source: http://127.0.0.1:8080/lib/pio/pio_sdk4.js (110)
+[1224/170201.804:INFO:CONSOLE(8)] "
+ %c %c %c PixiJS 5.3.6 - ✰ WebGL 2 ✰  %c  %c  http://www.pixijs.com/  %c %c ♥%c♥%c♥ 
+
+ background: #ff66a5; padding:5px 0; background: #ff66a5; padding:5px 0; color: #ff66a5; background: #030307; padding:5px 0; background: #ff66a5; padding:5px 0; background: #ffc3dc; padding:5px 0; background: #ff66a5; padding:5px 0; color: #ff2424; background: #fff; padding:5px 0; color: #ff2424; background: #fff; padding:5px 0; color: #ff2424; background: #fff; padding:5px 0;", source: http://127.0.0.1:8080/lib/live2d_display/pixi.min.js (8)
+[1224/170201.881:INFO:CONSOLE(31)] "[Pio] Loading new model", source: http://127.0.0.1:8080/lib/pio/pio_sdk4.js (31)
+[1224/170201.896:INFO:CONSOLE(1)] "[CSM][I]Live2D Cubism Core version: 04.01.0000 (67174400)
+", source: http://127.0.0.1:8080/lib/live2d_display/index.min.js (1)
+[1224/170201.896:INFO:CONSOLE(1)] "[CSM][I]CubismFramework.startUp() is complete.
+", source: http://127.0.0.1:8080/lib/live2d_display/index.min.js (1)
+[1224/170201.896:INFO:CONSOLE(1)] "[CSM][I]CubismFramework.initialize() is complete.
+", source: http://127.0.0.1:8080/lib/live2d_display/index.min.js (1)
+[1224/170201.921:INFO:CONSOLE(9)] "Live2D Cubism SDK Core Version 4.1.0", source: http://127.0.0.1:8080/lib/live2d_display/live2dcubismcore.min.js (9)
+[1224/174024.517:INFO:CONSOLE(1)] "Live2D %s 2.1.00_1", source: http://127.0.0.1:8080/lib/live2d_display/live2d.min.js (1)
+[1224/174024.517:INFO:CONSOLE(1)] "profile : Desktop", source: http://127.0.0.1:8080/lib/live2d_display/live2d.min.js (1)
+[1224/174024.517:INFO:CONSOLE(1)] "  [PROFILE_NAME] = Desktop", source: http://127.0.0.1:8080/lib/live2d_display/live2d.min.js (1)
+[1224/174024.517:INFO:CONSOLE(1)] "  [USE_ADJUST_TRANSLATION] = false", source: http://127.0.0.1:8080/lib/live2d_display/live2d.min.js (1)
+[1224/174024.517:INFO:CONSOLE(1)] "  [USE_CACHED_POLYGON_IMAGE] = false", source: http://127.0.0.1:8080/lib/live2d_display/live2d.min.js (1)
+[1224/174024.517:INFO:CONSOLE(1)] "  [EXPAND_W] = 2", source: http://127.0.0.1:8080/lib/live2d_display/live2d.min.js (1)
+[1224/174024.522:INFO:CONSOLE(306)] "%c Pio %c https://paugram.com  color: #fff; margin: 1em 0; padding: 5px 0; background: #673ab7; margin: 1em 0; padding: 5px 0; background: #efefef;", source: http://127.0.0.1:8080/lib/pio/pio.js (306)
+[1224/174024.523:INFO:CONSOLE(110)] "[Pio] Initialized container.", source: http://127.0.0.1:8080/lib/pio/pio_sdk4.js (110)
+[1224/174024.568:INFO:CONSOLE(8)] "
+ %c %c %c PixiJS 5.3.6 - ✰ WebGL 2 ✰  %c  %c  http://www.pixijs.com/  %c %c ♥%c♥%c♥ 
+
+ background: #ff66a5; padding:5px 0; background: #ff66a5; padding:5px 0; color: #ff66a5; background: #030307; padding:5px 0; background: #ff66a5; padding:5px 0; background: #ffc3dc; padding:5px 0; background: #ff66a5; padding:5px 0; color: #ff2424; background: #fff; padding:5px 0; color: #ff2424; background: #fff; padding:5px 0; color: #ff2424; background: #fff; padding:5px 0;", source: http://127.0.0.1:8080/lib/live2d_display/pixi.min.js (8)
+[1224/174024.640:INFO:CONSOLE(31)] "[Pio] Loading new model", source: http://127.0.0.1:8080/lib/pio/pio_sdk4.js (31)
+[1224/174024.658:INFO:CONSOLE(1)] "[CSM][I]Live2D Cubism Core version: 04.01.0000 (67174400)
+", source: http://127.0.0.1:8080/lib/live2d_display/index.min.js (1)
+[1224/174024.658:INFO:CONSOLE(1)] "[CSM][I]CubismFramework.startUp() is complete.
+", source: http://127.0.0.1:8080/lib/live2d_display/index.min.js (1)
+[1224/174024.658:INFO:CONSOLE(1)] "[CSM][I]CubismFramework.initialize() is complete.
+", source: http://127.0.0.1:8080/lib/live2d_display/index.min.js (1)
+[1224/174024.668:INFO:CONSOLE(9)] "Live2D Cubism SDK Core Version 4.1.0", source: http://127.0.0.1:8080/lib/live2d_display/live2dcubismcore.min.js (9)
+[1224/175804.877:INFO:CONSOLE(1)] "Live2D %s 2.1.00_1", source: http://127.0.0.1:8080/lib/live2d_display/live2d.min.js (1)
+[1224/175804.877:INFO:CONSOLE(1)] "profile : Desktop", source: http://127.0.0.1:8080/lib/live2d_display/live2d.min.js (1)
+[1224/175804.877:INFO:CONSOLE(1)] "  [PROFILE_NAME] = Desktop", source: http://127.0.0.1:8080/lib/live2d_display/live2d.min.js (1)
+[1224/175804.877:INFO:CONSOLE(1)] "  [USE_ADJUST_TRANSLATION] = false", source: http://127.0.0.1:8080/lib/live2d_display/live2d.min.js (1)
+[1224/175804.877:INFO:CONSOLE(1)] "  [USE_CACHED_POLYGON_IMAGE] = false", source: http://127.0.0.1:8080/lib/live2d_display/live2d.min.js (1)
+[1224/175804.877:INFO:CONSOLE(1)] "  [EXPAND_W] = 2", source: http://127.0.0.1:8080/lib/live2d_display/live2d.min.js (1)
+[1224/175804.882:INFO:CONSOLE(306)] "%c Pio %c https://paugram.com  color: #fff; margin: 1em 0; padding: 5px 0; background: #673ab7; margin: 1em 0; padding: 5px 0; background: #efefef;", source: http://127.0.0.1:8080/lib/pio/pio.js (306)
+[1224/175804.882:INFO:CONSOLE(110)] "[Pio] Initialized container.", source: http://127.0.0.1:8080/lib/pio/pio_sdk4.js (110)
+[1224/175804.926:INFO:CONSOLE(8)] "
+ %c %c %c PixiJS 5.3.6 - ✰ WebGL 2 ✰  %c  %c  http://www.pixijs.com/  %c %c ♥%c♥%c♥ 
+
+ background: #ff66a5; padding:5px 0; background: #ff66a5; padding:5px 0; color: #ff66a5; background: #030307; padding:5px 0; background: #ff66a5; padding:5px 0; background: #ffc3dc; padding:5px 0; background: #ff66a5; padding:5px 0; color: #ff2424; background: #fff; padding:5px 0; color: #ff2424; background: #fff; padding:5px 0; color: #ff2424; background: #fff; padding:5px 0;", source: http://127.0.0.1:8080/lib/live2d_display/pixi.min.js (8)
+[1224/175804.993:INFO:CONSOLE(31)] "[Pio] Loading new model", source: http://127.0.0.1:8080/lib/pio/pio_sdk4.js (31)
+[1224/175804.999:INFO:CONSOLE(1)] "[CSM][I]Live2D Cubism Core version: 04.01.0000 (67174400)
+", source: http://127.0.0.1:8080/lib/live2d_display/index.min.js (1)
+[1224/175805.000:INFO:CONSOLE(1)] "[CSM][I]CubismFramework.startUp() is complete.
+", source: http://127.0.0.1:8080/lib/live2d_display/index.min.js (1)
+[1224/175805.000:INFO:CONSOLE(1)] "[CSM][I]CubismFramework.initialize() is complete.
+", source: http://127.0.0.1:8080/lib/live2d_display/index.min.js (1)
+[1224/175805.009:INFO:CONSOLE(9)] "Live2D Cubism SDK Core Version 4.1.0", source: http://127.0.0.1:8080/lib/live2d_display/live2dcubismcore.min.js (9)
+[1224/180205.677:INFO:CONSOLE(1)] "Live2D %s 2.1.00_1", source: http://127.0.0.1:8080/lib/live2d_display/live2d.min.js (1)
+[1224/180205.677:INFO:CONSOLE(1)] "profile : Desktop", source: http://127.0.0.1:8080/lib/live2d_display/live2d.min.js (1)
+[1224/180205.677:INFO:CONSOLE(1)] "  [PROFILE_NAME] = Desktop", source: http://127.0.0.1:8080/lib/live2d_display/live2d.min.js (1)
+[1224/180205.677:INFO:CONSOLE(1)] "  [USE_ADJUST_TRANSLATION] = false", source: http://127.0.0.1:8080/lib/live2d_display/live2d.min.js (1)
+[1224/180205.677:INFO:CONSOLE(1)] "  [USE_CACHED_POLYGON_IMAGE] = false", source: http://127.0.0.1:8080/lib/live2d_display/live2d.min.js (1)
+[1224/180205.677:INFO:CONSOLE(1)] "  [EXPAND_W] = 2", source: http://127.0.0.1:8080/lib/live2d_display/live2d.min.js (1)
+[1224/180205.684:INFO:CONSOLE(306)] "%c Pio %c https://paugram.com  color: #fff; margin: 1em 0; padding: 5px 0; background: #673ab7; margin: 1em 0; padding: 5px 0; background: #efefef;", source: http://127.0.0.1:8080/lib/pio/pio.js (306)
+[1224/180205.685:INFO:CONSOLE(110)] "[Pio] Initialized container.", source: http://127.0.0.1:8080/lib/pio/pio_sdk4.js (110)
+[1224/180205.729:INFO:CONSOLE(8)] "
+ %c %c %c PixiJS 5.3.6 - ✰ WebGL 2 ✰  %c  %c  http://www.pixijs.com/  %c %c ♥%c♥%c♥ 
+
+ background: #ff66a5; padding:5px 0; background: #ff66a5; padding:5px 0; color: #ff66a5; background: #030307; padding:5px 0; background: #ff66a5; padding:5px 0; background: #ffc3dc; padding:5px 0; background: #ff66a5; padding:5px 0; color: #ff2424; background: #fff; padding:5px 0; color: #ff2424; background: #fff; padding:5px 0; color: #ff2424; background: #fff; padding:5px 0;", source: http://127.0.0.1:8080/lib/live2d_display/pixi.min.js (8)
+[1224/180205.882:INFO:CONSOLE(31)] "[Pio] Loading new model", source: http://127.0.0.1:8080/lib/pio/pio_sdk4.js (31)
+[1224/180205.886:INFO:CONSOLE(1)] "[CSM][I]Live2D Cubism Core version: 04.01.0000 (67174400)
+", source: http://127.0.0.1:8080/lib/live2d_display/index.min.js (1)
+[1224/180205.886:INFO:CONSOLE(1)] "[CSM][I]CubismFramework.startUp() is complete.
+", source: http://127.0.0.1:8080/lib/live2d_display/index.min.js (1)
+[1224/180205.886:INFO:CONSOLE(1)] "[CSM][I]CubismFramework.initialize() is complete.
+", source: http://127.0.0.1:8080/lib/live2d_display/index.min.js (1)
+[1224/180205.909:INFO:CONSOLE(9)] "Live2D Cubism SDK Core Version 4.1.0", source: http://127.0.0.1:8080/lib/live2d_display/live2dcubismcore.min.js (9)
+[1224/180257.289:INFO:CONSOLE(1)] "Live2D %s 2.1.00_1", source: http://127.0.0.1:8080/lib/live2d_display/live2d.min.js (1)
+[1224/180257.289:INFO:CONSOLE(1)] "profile : Desktop", source: http://127.0.0.1:8080/lib/live2d_display/live2d.min.js (1)
+[1224/180257.289:INFO:CONSOLE(1)] "  [PROFILE_NAME] = Desktop", source: http://127.0.0.1:8080/lib/live2d_display/live2d.min.js (1)
+[1224/180257.289:INFO:CONSOLE(1)] "  [USE_ADJUST_TRANSLATION] = false", source: http://127.0.0.1:8080/lib/live2d_display/live2d.min.js (1)
+[1224/180257.289:INFO:CONSOLE(1)] "  [USE_CACHED_POLYGON_IMAGE] = false", source: http://127.0.0.1:8080/lib/live2d_display/live2d.min.js (1)
+[1224/180257.289:INFO:CONSOLE(1)] "  [EXPAND_W] = 2", source: http://127.0.0.1:8080/lib/live2d_display/live2d.min.js (1)
+[1224/180257.294:INFO:CONSOLE(306)] "%c Pio %c https://paugram.com  color: #fff; margin: 1em 0; padding: 5px 0; background: #673ab7; margin: 1em 0; padding: 5px 0; background: #efefef;", source: http://127.0.0.1:8080/lib/pio/pio.js (306)
+[1224/180257.295:INFO:CONSOLE(110)] "[Pio] Initialized container.", source: http://127.0.0.1:8080/lib/pio/pio_sdk4.js (110)
+[1224/180257.340:INFO:CONSOLE(8)] "
+ %c %c %c PixiJS 5.3.6 - ✰ WebGL 2 ✰  %c  %c  http://www.pixijs.com/  %c %c ♥%c♥%c♥ 
+
+ background: #ff66a5; padding:5px 0; background: #ff66a5; padding:5px 0; color: #ff66a5; background: #030307; padding:5px 0; background: #ff66a5; padding:5px 0; background: #ffc3dc; padding:5px 0; background: #ff66a5; padding:5px 0; color: #ff2424; background: #fff; padding:5px 0; color: #ff2424; background: #fff; padding:5px 0; color: #ff2424; background: #fff; padding:5px 0;", source: http://127.0.0.1:8080/lib/live2d_display/pixi.min.js (8)
+[1224/180257.426:INFO:CONSOLE(31)] "[Pio] Loading new model", source: http://127.0.0.1:8080/lib/pio/pio_sdk4.js (31)
+[1224/180257.428:INFO:CONSOLE(1)] "[CSM][I]Live2D Cubism Core version: 04.01.0000 (67174400)
+", source: http://127.0.0.1:8080/lib/live2d_display/index.min.js (1)
+[1224/180257.428:INFO:CONSOLE(1)] "[CSM][I]CubismFramework.startUp() is complete.
+", source: http://127.0.0.1:8080/lib/live2d_display/index.min.js (1)
+[1224/180257.428:INFO:CONSOLE(1)] "[CSM][I]CubismFramework.initialize() is complete.
+", source: http://127.0.0.1:8080/lib/live2d_display/index.min.js (1)
+[1224/180257.438:INFO:CONSOLE(9)] "Live2D Cubism SDK Core Version 4.1.0", source: http://127.0.0.1:8080/lib/live2d_display/live2dcubismcore.min.js (9)

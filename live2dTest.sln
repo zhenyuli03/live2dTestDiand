@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31912.275
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "live2dTest", "live2dTest\live2dTest.csproj", "{1C1F7CE9-D3F7-474B-9713-5FDC5C358607}"
+	ProjectSection(ProjectDependencies) = postProject
+		{E33B8141-0E52-4A02-8EE3-B3C964BB6902} = {E33B8141-0E52-4A02-8EE3-B3C964BB6902}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ServerLib", "ServerLib\ServerLib.csproj", "{E33B8141-0E52-4A02-8EE3-B3C964BB6902}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1C1F7CE9-D3F7-474B-9713-5FDC5C358607}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C1F7CE9-D3F7-474B-9713-5FDC5C358607}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C1F7CE9-D3F7-474B-9713-5FDC5C358607}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C1F7CE9-D3F7-474B-9713-5FDC5C358607}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E33B8141-0E52-4A02-8EE3-B3C964BB6902}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E33B8141-0E52-4A02-8EE3-B3C964BB6902}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E33B8141-0E52-4A02-8EE3-B3C964BB6902}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E33B8141-0E52-4A02-8EE3-B3C964BB6902}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8BFB576C-D833-4D7F-B9FE-E2EB12422434}
+	EndGlobalSection
+EndGlobal

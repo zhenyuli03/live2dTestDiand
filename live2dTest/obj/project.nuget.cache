@@ -1,0 +1,27 @@
+{
+  "version": 2,
+  "dgSpecHash": "vefLwGvywdrrwG6EAYVOoHdOOBg0EnT4SqeQHSctCClsDrXJJ5xZWE+zv7wgfu8g/KVl9f9AQHc3cmH7mrzN0A==",
+  "success": true,
+  "projectFilePath": "D:\\2.实验代码\\live2dTest\\live2dTest\\live2dTest.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ZhenYuLi\\.nuget\\packages\\cefsharp.common.netcore\\96.0.180\\cefsharp.common.netcore.96.0.180.nupkg.sha512",
+    "C:\\Users\\ZhenYuLi\\.nuget\\packages\\cefsharp.wpf.netcore\\96.0.180\\cefsharp.wpf.netcore.96.0.180.nupkg.sha512",
+    "C:\\Users\\ZhenYuLi\\.nuget\\packages\\chromiumembeddedframework.runtime\\96.0.18\\chromiumembeddedframework.runtime.96.0.18.nupkg.sha512",
+    "C:\\Users\\ZhenYuLi\\.nuget\\packages\\chromiumembeddedframework.runtime.win-arm64\\96.0.18\\chromiumembeddedframework.runtime.win-arm64.96.0.18.nupkg.sha512",
+    "C:\\Users\\ZhenYuLi\\.nuget\\packages\\chromiumembeddedframework.runtime.win-x64\\96.0.18\\chromiumembeddedframework.runtime.win-x64.96.0.18.nupkg.sha512",
+    "C:\\Users\\ZhenYuLi\\.nuget\\packages\\chromiumembeddedframework.runtime.win-x86\\96.0.18\\chromiumembeddedframework.runtime.win-x86.96.0.18.nupkg.sha512",
+    "C:\\Users\\ZhenYuLi\\.nuget\\packages\\mvvmlightlibs\\5.4.1.1\\mvvmlightlibs.5.4.1.1.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "已使用“.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8”而不是项目目标框架“net6.0-windows7.0”还原包“MvvmLightLibs 5.4.1.1”。此包可能与项目不完全兼容。",
+      "libraryId": "MvvmLightLibs",
+      "targetGraphs": [
+        "net6.0-windows7.0"
+      ]
+    }
+  ]
+}

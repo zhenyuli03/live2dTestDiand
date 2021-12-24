@@ -1,0 +1,12 @@
+D:\2.实验代码\live2dTest\ServerLib\bin\Debug\net6.0\ServerLib.deps.json
+D:\2.实验代码\live2dTest\ServerLib\bin\Debug\net6.0\ServerLib.dll
+D:\2.实验代码\live2dTest\ServerLib\bin\Debug\net6.0\ref\ServerLib.dll
+D:\2.实验代码\live2dTest\ServerLib\bin\Debug\net6.0\ServerLib.pdb
+D:\2.实验代码\live2dTest\ServerLib\obj\Debug\net6.0\ServerLib.csproj.AssemblyReference.cache
+D:\2.实验代码\live2dTest\ServerLib\obj\Debug\net6.0\ServerLib.GeneratedMSBuildEditorConfig.editorconfig
+D:\2.实验代码\live2dTest\ServerLib\obj\Debug\net6.0\ServerLib.AssemblyInfoInputs.cache
+D:\2.实验代码\live2dTest\ServerLib\obj\Debug\net6.0\ServerLib.AssemblyInfo.cs
+D:\2.实验代码\live2dTest\ServerLib\obj\Debug\net6.0\ServerLib.csproj.CoreCompileInputs.cache
+D:\2.实验代码\live2dTest\ServerLib\obj\Debug\net6.0\ServerLib.dll
+D:\2.实验代码\live2dTest\ServerLib\obj\Debug\net6.0\ref\ServerLib.dll
+D:\2.实验代码\live2dTest\ServerLib\obj\Debug\net6.0\ServerLib.pdb
